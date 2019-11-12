@@ -1,0 +1,1362 @@
+ID	Language_ID	Parameter_ID	Form	Segments	BorrowedScore	Essential	Borrowability
+40-1-1-1	40	1-100	hunhat	h u n̥ a t	0.0	False	0.401886792453
+40-1-21-1	40	1-210	hunhat	h u n̥ a t	0.0	False	0.268285123967
+40-1-212-1	40	1-212	hunhat	h u n̥ a t	0.0	True	0.0999346120314
+40-1-213-1	40	1-213	hulu	h u l u	0.0	False	0.233766233766
+40-1-213-2	40	1-213	lamukw	l a m u kʷ	0.0	False	0.233766233766
+40-1-214-1	40	1-214	iyhot	i j h o t	0.0	False	0.153973509934
+40-1-215-1	40	1-215	alena	a l e n a	1.0	True	0.0994475138122
+40-1-22-1	40	1-220	tachenaj	t a tʃ e n a x	0.0	False	0.173913043478
+40-1-222-1	40	1-222	tewuk katchenaj	t e w u k # k a t tʃ e n a x	0.0	False	0.165760869565
+40-1-23-1	40	1-230	alhu	a lˠ u	0.0	False	0.260073260073
+40-1-24-1	40	1-240	lakawayhi	l a k a w a j h i	0.0	False	0.183908045977
+40-1-25-1	40	1-250	lhiletaj	lˠ i l e t a x	0.0	False	0.387978142077
+40-1-27-1	40	1-270	tewuk lhip	t e w u k # lˠ i p	0.0	False	0.153273809524
+40-1-28-1	40	1-280	chuwej	tʃ u w e x	0.0	False	0.195054945055
+40-1-31-1	40	1-310	inot	i n o t	0.0	True	0.0911062906725
+40-1-32-1	40	1-320	inot litak	i n o t # l i t a k	0.0	False	0.461832061069
+40-1-322-1	40	1-322	iwutamsecha	i w u t a m s e tʃ a	0.0	False	0.264705882353
+40-1-323-1	40	1-323	nilhek’alhi	n i lˠ e k ʔ a lˠ i	0.0	False	0.161290322581
+40-1-324-1	40	1-324	lakuj	l a k u x	0.0	False	0.148936170213
+40-1-329-1	40	1-329	inot litak	i n o t # l i t a k	0.0	False	0.611650485437
+40-1-33-1	40	1-330	lawumek	l a w u m e k	0.0	False	0.21472392638
+40-1-33-2	40	1-330	lhemchitaj	lˠ e m tʃ i t a x	0.0	False	0.21472392638
+40-1-341-1	40	1-341	lawumek	l a w u m e k	0.0	False	0.386904761905
+40-1-35-1	40	1-350	komoktaj	k o m o k t a x	0.0	False	0.133522727273
+40-1-36-1	40	1-360	tewuk	t e w u k	0.0	False	0.223816355811
+40-1-362-1	40	1-362	lalenchitaj	l a l e n tʃ i t a x	0.0	False	0.0975609756098
+40-1-38-1	40	1-380	inotw’et	i n o t wˀ e t	0.0	False	0.208737864078
+40-1-39-1	40	1-390	inot n’oyij	i n o t # n ʔ o j i x	0.0	False	0.224719101124
+40-1-41-1	40	1-410	tayhi	t a j h i	0.0	False	0.1646884273
+40-1-43-1	40	1-430	hal’o	h a l ʔ o	0.0	True	0.140122511485
+40-1-44-1	40	1-440	tente	t e n t e	0.0	True	0.105
+40-1-45-1	40	1-450	hunhat w’ahi	h u n̥ a t # w ʔ a h i	0.0	False	0.25
+40-1-51-1	40	1-510	pele	p e l e	0.0	False	0.273542600897
+40-1-52-1	40	1-520	fwala	fʷ a l a	0.0	True	0.13900203666
+40-1-53-1	40	1-530	wel’a	w e l ʔ a	0.0	True	0.284198113208
+40-1-54-1	40	1-540	kates	k a t e s	0.0	True	0.1703187251
+40-1-55-1	40	1-550	yoklep	y o k l e p	0.0	False	0.16
+40-1-56-1	40	1-560	pelhay y’iplhi	p e lˠ a j # j ʔ i p lˠ i	0.0	False	0.104247104247
+40-1-57-1	40	1-570	pelhach’e	p e lˠ a tʃ ʔ e	0.0	False	0.255681818182
+40-1-58-1	40	1-580	pelhay	p e lˠ a j	0.0	False	0.235401459854
+40-1-59-1	40	1-590	lawu	l a w u	0.0	False	0.136363636364
+40-1-61-1	40	1-610	fwala	fʷ a l a	0.0	False	0.208632834963
+40-1-62-1	40	1-620	hunataj	h u n a t a x	0.0	False	0.147272727273
+40-1-63-1	40	1-630	hipelh	h i p e l̥	0.0	True	0.112745098039
+40-1-64-1	40	1-640	iyas	i j a s	0.0	False	0.163822525597
+40-1-71-1	40	1-710	layalh	l a j a l̥	0.5	False	0.47572815534
+40-1-72-1	40	1-720	ihwok	i hʷ o k	0.0	True	0.171739130435
+40-1-73-1	40	1-730	pele	p e l e	0.0	True	0.164705882353
+40-1-74-1	40	1-740	tetsetaj	t e ts e t a x	0.0	False	0.140625
+40-1-75-1	40	1-750	iwumcho’	i w u m tʃ o ʔ	0.0	True	0.0836776859504
+40-1-77-1	40	1-770	fwiy’et	fʷ i j ʔ e t	0.0	False	0.230769230769
+40-1-78-1	40	1-780	lawhoy	l a w̥ o j	0.0	False	0.363194444444
+40-1-81-1	40	1-810	itoj	i t o x	0.0	True	0.0354578882858
+40-1-82-1	40	1-820	itoj lhalh	i t o x # lˠ a l̥	0.0	False	0.180036930652
+40-1-83-1	40	1-830	tetsey	t e ts e j	0.0	True	0.0840517241379
+40-1-84-1	40	1-840	itoj mukw	i t o x # m u kʷ	0.0	True	0.147058823529
+40-1-841-1	40	1-841	fwiyhul	fʷ i j h u l	0.0	False	0.247933884298
+40-1-851-1	40	1-851	hip’u	h i p ʔ u	0.0	False	0.0997854077253
+40-1-852-1	40	1-852	lak’e	l a k ʔ e	0.0	True	0.0493827160494
+40-1-86-1	40	1-860	wen	w e n	0.0	False	0.0621761658031
+40-1-861-1	40	1-861	y’umet	y ʔ u m e t	0.5	False	0.147585345545
+40-1-87-1	40	1-870	fwufwulu	fʷ u fʷ u l u	1.0	False	0.6689453125
+40-1-88-1	40	1-880	tolhetes	t o lˠ e t e s	0.0	False	0.0491028128031
+40-1-89-1	40	1-890	fwiyhul	fʷ i j h u l	0.0	False	0.258823529412
+40-2-21-1	40	2-210	hin’u	h i n ʔ u	0.0	True	0.0962877030162
+40-2-22-1	40	2-220	atsinha	a ts i n̥ a	0.0	True	0.157498824636
+40-2-23-1	40	2-230	hin’u	h i n ʔ u	0.0	False	0.189476168004
+40-2-24-1	40	2-240	atsinha	a ts i n̥ a	0.0	False	0.157597876576
+40-2-25-1	40	2-250	ha’no’fwaj	h a ʔ n o ʔ fʷ a x	0.0	False	0.169642857143
+40-2-251-1	40	2-251	mamse	m a m s e	0.0	False	0.243203883495
+40-2-26-1	40	2-260	lhetsha	lˠ e tsʰ a	0.0	False	0.142448512586
+40-2-261-1	40	2-261	lhetsha	lˠ e tsʰ a	0.0	False	0.17094017094
+40-2-27-1	40	2-270	ha’no’fwaj	h a ʔ n o ʔ fʷ a x	0.0	False	0.154699738903
+40-2-28-1	40	2-280	ha’no’fwaj	h a ʔ n o ʔ fʷ a x	0.0	False	0.221811460259
+40-2-31-1	40	2-310	toch’efwa hin’u	t o tʃ ʔ e fʷ a # h i n ʔ u	0.0	False	0.199845480299
+40-2-32-1	40	2-320	toch’efwa atsinha	t o tʃ ʔ e fʷ a # a ts i n̥ a	0.0	False	0.183438155136
+40-2-33-1	40	2-330	tawhayey	t a w̥ a j e j	0.0	False	0.139645776567
+40-2-34-1	40	2-340	tawhayey	t a w̥ a j e j	0.0	False	0.252808988764
+40-2-35-1	40	2-350	tofwcha	t o fʷ tʃ a	0.0	False	0.251601774273
+40-2-36-1	40	2-360	toku	t o k u	0.0	False	0.194662480377
+40-2-37-1	40	2-370	tolhukwey	t o lˠ u kʷ e j	0.0	False	0.117283950617
+40-2-38-1	40	2-380	hin’u lach’efwa ihi	h i n ʔ u # l a tʃ ʔ e fʷ a # i h i	0.0	False	0.0467128027682
+40-2-39-1	40	2-390	atsinha lach’efwa ihi	a ts i n̥ a # l a tʃ ʔ e fʷ a # i h i	0.0	False	0.0100536193029
+40-2-41-1	40	2-410	tolhos	t o lˠ o s	0.0	False	0.111888111888
+40-2-42-1	40	2-420	tolhose	t o lˠ o s e	0.0	False	0.117391304348
+40-2-444-1	40	2-444	tochila	t o tʃ i l a	0.0	False	0.0628418214226
+40-2-445-1	40	2-445	toch’inij	t o tʃ ʔ i n i x	0.0	False	0.0308275018683
+40-2-454-1	40	2-454	tochita	t o tʃ i t a	0.0	False	0.05502417729
+40-2-455-1	40	2-455	toch’inho	t o tʃ ʔ i n̥ o	0.0	False	0.0111165383773
+40-2-458-1	40	2-458	tokwhi	t o kʷ + h i	0.0	False	0.230079681275
+40-2-458-2	40	2-458	meyisu	m e j i s u	1.0	False	0.230079681275
+40-2-46-1	40	2-460	tochoti	t o tʃ o t i	0.0	False	0.266843971631
+40-2-461-1	40	2-461	hin’u wemek	h i n ʔ u # w e m e k	0.0	False	0.229511970534
+40-2-47-1	40	2-470	tokatela	t o k a t e l a	0.0	False	0.271452145215
+40-2-471-1	40	2-471	atsinha wemek	a ts i n̥ a # w e m e k	0.0	False	0.187074829932
+40-2-48-1	40	2-480	tocheyos	t o tʃ e j o s	0.0	False	0.0951248513674
+40-2-49-1	40	2-490	tocheyo	t o tʃ e j o	0.0	False	0.10456796918
+40-2-51-1	40	2-510	towithuk	t o w i tʰ u k	0.0	False	0.303871335041
+40-2-511-1	40	2-511	towithuk	t o w i tʰ u k	0.0	False	0.21123767426
+40-2-512-1	40	2-512	towithuk	t o w i tʰ u k	0.0	False	0.215423606083
+40-2-52-1	40	2-520	towit’uj	t o w i t ʔ u x	0.0	False	0.237457073457
+40-2-521-1	40	2-521	towit’uj	t o w i t ʔ u x	0.0	False	0.21676300578
+40-2-522-1	40	2-522	towit’uj	t o w i t ʔ u x	0.0	False	0.277013076394
+40-2-53-1	40	2-530	towal’a	t o w a l ʔ a	0.0	False	0.189051918736
+40-2-54-1	40	2-540	towal’ani	t o w a l ʔ a n i	0.0	False	0.145631067961
+40-2-56-1	40	2-560	pajchehen	p a x tʃ e h e n	0.0	False	0.278481012658
+40-2-57-1	40	2-570	lapes lheley	l a p e s # lˠ e l e j	0.0	False	0.345454545455
+40-2-61-1	40	2-610	tochoti	t o tʃ o t i	0.0	False	0.125486381323
+40-2-611-1	40	2-611	tochoti	t o tʃ o t i	0.0	False	0.169769409774
+40-2-62-1	40	2-620	tokatela	t o k a t e l a	0.0	False	0.121737746658
+40-2-621-1	40	2-621	tokatela	t o k a t e l a	0.0	False	0.188972513089
+40-2-63-1	40	2-630	tofwayenek	t o fʷ a j e n e k	0.0	False	0.204086718166
+40-2-631-1	40	2-631	tofwayenek	t o fʷ a j e n e k	0.0	False	0.218113834649
+40-2-64-1	40	2-640	totiche	t o t i tʃ e	0.0	False	0.0939818631492
+40-2-641-1	40	2-641	totiche	t o t i tʃ e	0.0	False	0.116810877627
+40-2-75-1	40	2-750	wajtsi	w a x ts i	1.0	False	0.225941422594
+40-2-75-2	40	2-750	chipena	tʃ i p e n a	0.0	False	0.225941422594
+40-2-76-1	40	2-760	tesa	t e s a	0.0	False	0.26875
+40-2-77-1	40	2-770	tesa	t e s a	0.0	False	0.208955223881
+40-2-81-1	40	2-810	n’w’et lhele	n ˀw ʔ e t # lˠ e l e	0.0	False	0.398592283629
+40-2-82-1	40	2-820	n’w’et lhele	n ˀw ʔ e t # lˠ e l e	0.0	False	0.419715447154
+40-2-91-1	40	2-910	n’lham	n ʔ lˠ a m	0.0	True	0.0296610169492
+40-2-92-1	40	2-920	am	a m	0.0	True	0.0416666666667
+40-2-93-1	40	2-930	lham	lˠ a m	0.0	True	0.0
+40-2-941-1	40	2-941	namilh	n a m i l̥	0.0	False	0.0
+40-2-941-2	40	2-941	n’lhamilh	n ʔ lˠ a m i l̥	0.0	False	0.0
+40-2-942-1	40	2-942	tolhamilh	t o lˠ a m i l̥	0.0	False	0.0
+40-2-95-1	40	2-950	amilh	a m i l̥	0.0	False	0.0380952380952
+40-2-96-1	40	2-960	lhamilh	lˠ a m i l̥	0.0	False	0.0741525423729
+40-3-11-1	40	3-110	tshowet	tsʰ o w e t	0.0	False	0.456140350877
+40-3-12-1	40	3-120	asnak	a s n a k	0.0	False	0.168918918919
+40-3-13-1	40	3-130	atsinha	a ts i n̥ a	0.0	False	0.117414248021
+40-3-16-1	40	3-160	toloy lhokw’et	t o l o j # lˠ o kʷ ʔ e t	0.0	False	0.358333333333
+40-3-18-1	40	3-180	tshotoywu	tsʰ o t o j w u	0.0	False	0.205128205128
+40-3-19-1	40	3-190	tshotoyw’et	tsʰ o t o j w ʔ e t	0.0	False	0.252717391304
+40-3-21-1	40	3-210	tulu asnak	t u l u # a s n a k	1.0	False	0.308917197452
+40-3-22-1	40	3-220	weyis	w e j i s	1.0	False	0.488095238095
+40-3-23-1	40	3-230	tulu atsinha	t u l u # a ts i n̥ a	1.0	False	0.300230946882
+40-3-24-1	40	3-240	teinelu	t e i n e l u	1.0	False	0.209708737864
+40-3-24-2	40	3-240	tulu lhos	t u l u # lˠ o s	0.0	False	0.209708737864
+40-3-25-1	40	3-250	tsun’ataj	ts u n ʔ a t a x	0.0	False	0.425897824987
+40-3-26-1	40	3-260	ch’inak	tʃ ʔ i n a k	0.0	False	0.19133192389
+40-3-28-1	40	3-280	tsun’ataj atsinha	ts u n ʔ a t a x # a ts i n̥ a	0.0	False	0.0915915915916
+40-3-29-1	40	3-290	tsun’ataj lhos	ts u n ʔ a t a x # lˠ o s	0.0	False	0.204545454545
+40-3-32-1	40	3-320	awetsaj	a w e ts a x	0.0	False	0.227678571429
+40-3-34-1	40	3-340	nitsetaj atsinha	n i ts e t a x # a ts i n̥ a	0.0	False	0.138157894737
+40-3-34-2	40	3-340	kutsi atsinha	k u ts i # a ts i n̥ a	1.0	False	0.138157894737
+40-3-35-1	40	3-350	kutsi	k u ts i	1.0	False	0.303135888502
+40-3-35-2	40	3-350	nitsetaj asnak	n i ts e t a x # a s n a k	0.0	False	0.303135888502
+40-3-36-1	40	3-360	kaila	k a i l a	1.0	False	0.367430795848
+40-3-37-1	40	3-370	kaila asnak	k a i l a # a s n a k	1.0	False	0.284682080925
+40-3-38-1	40	3-380	kaila lhos	k a i l a # lˠ o s	1.0	False	0.124365482234
+40-3-41-1	40	3-410	yel’ataj	y e l ʔ a t a x	0.0	False	0.573705179283
+40-3-42-1	40	3-420	yel’ataj asnak	y e l ʔ a t a x # a s n a k	0.0	False	0.313106796117
+40-3-44-1	40	3-440	yel’ataj atsinha	y e l ʔ a t a x # a ts i n̥ a	0.0	False	0.266497461929
+40-3-45-1	40	3-450	yel’ataj lhos	y e l ʔ a t a x # lˠ o s	0.0	False	0.210526315789
+40-3-46-1	40	3-460	asnu	a s n u	1.0	False	0.626582278481
+40-3-47-1	40	3-470	mula	m u l a	1.0	False	0.6875
+40-3-52-1	40	3-520	hu’u	h u ʔ u	0.0	False	0.298901098901
+40-3-54-1	40	3-540	hu’u	h u ʔ u	0.0	False	0.128361858191
+40-3-55-1	40	3-550	hu’u	h u ʔ u	0.0	False	0.372122762148
+40-3-56-1	40	3-560	tsehistaj	ts e h i s t a x	0.0	False	0.472602739726
+40-3-57-1	40	3-570	fwu’yaj	fʷ u ʔ j a x	0.0	False	0.461538461538
+40-3-58-1	40	3-580	lhep	lˠ e p	0.0	False	0.125
+40-3-581-1	40	3-581	afwenche	a fʷ e n tʃ e	0.0	True	0.158181818182
+40-3-583-1	40	3-583	mup’i	m u p ʔ i	0.0	False	0.203947368421
+40-3-583-2	40	3-583	kalaktaj	k a l a k t a x	0.0	False	0.203947368421
+40-3-584-1	40	3-584	istiwin	i s t i w i n	0.0	False	0.247126436782
+40-3-585-1	40	3-585	alhech’alu	a lˠ e tʃ ʔ a l u	0.0	False	0.159793814433
+40-3-591-1	40	3-591	ases	a s e s	0.0	False	0.222826086957
+40-3-592-1	40	3-592	ele	e l e	0.5	False	0.5
+40-3-593-1	40	3-593	tsetwu	ts e t w u	0.0	False	0.141025641026
+40-3-594-1	40	3-594	hukwinataj	h u kʷ i n a t a x	0.0	False	0.262820512821
+40-3-596-1	40	3-596	sinalhchu’	s i n a lˠ tʃ u ʔ	0.0	False	0.15350877193
+40-3-596-2	40	3-596	wuk’u	w u k ʔ u	0.75	False	0.15350877193
+40-3-596-3	40	3-596	chilechakw	tʃ i l e tʃ a kʷ	0.0	False	0.15350877193
+40-3-596-4	40	3-596	amyolo	a m j o l o	0.0	False	0.15350877193
+40-3-61-1	40	3-610	asinoj	a s i n o x	0.0	True	0.161616161616
+40-3-614-1	40	3-614	note	n o t e	0.0	False	0.44262295082
+40-3-62-1	40	3-620	mitsi	m i ts i	1.0	False	0.344186046512
+40-3-622-1	40	3-622	lap’i	l a p ʔ i	0.0	False	0.476744186047
+40-3-63-1	40	3-630	tsojtsoj	ts o x ts o x	0.0	False	0.177165354331
+40-3-63-2	40	3-630	ama	a m a	0.0	False	0.177165354331
+40-3-65-1	40	3-650	w’ahat	w ʔ a h a t	0.0	True	0.145161290323
+40-3-652-1	40	3-652	lhefw	lˠ e fʷ	0.0	False	0.0678391959799
+40-3-653-1	40	3-653	lafwinchu’	l a fʷ i n tʃ u ʔ	0.0	False	0.208333333333
+40-3-654-1	40	3-654	lak’aysi	l a k ʔ a j s i	0.0	False	0.194915254237
+40-3-655-1	40	3-655	lanek	l a n e k	0.5	False	0.209375
+40-3-664-1	40	3-664	pujlhin	p u x lˠ i n	0.0	False	0.238636363636
+40-3-665-1	40	3-665	iyha	i j h a	0.0	False	0.171875
+40-3-71-1	40	3-710	mawutaj	m a w u t a x	0.0	False	0.270833333333
+40-3-72-1	40	3-720	p’uwalhaj	p ʔ u w a lˠ a x	0.0	False	0.656626506024
+40-3-73-1	40	3-730	selaj	s e l a x	0.0	False	0.354838709677
+40-3-74-1	40	3-740	mawu	m a w u	0.0	False	0.173611111111
+40-3-75-1	40	3-750	ch’iwase	tʃ ʔ i w a s e	0.0	False	0.146706586826
+40-3-76-1	40	3-760	hoton’i	h o t o n ʔ i	0.0	False	0.333333333333
+40-3-77-1	40	3-770	wetaj	w e t a x	0.0	False	0.641176470588
+40-3-81-1	40	3-810	makwu	m a kʷ u	0.0	False	0.443946188341
+40-3-811-1	40	3-811	lha’	lˠ a ʔ	0.0	True	0.0493421052632
+40-3-812-1	40	3-812	lha’ lhech’elh	lˠ a ʔ # lˠ e tʃ ʔ e l̥	0.0	False	0.0479452054795
+40-3-813-1	40	3-813	mawuwu	m a w u w u	0.0	False	0.0705882352941
+40-3-814-1	40	3-814	alheposet	a lˠ e p o s e t	0.0	False	0.141025641026
+40-3-815-1	40	3-815	chostilhoj	tʃ o s t i lˠ o x	0.0	False	0.324324324324
+40-3-816-1	40	3-816	nafwuluj	n a fʷ u l u x	0.0	False	0.363095238095
+40-3-817-1	40	3-817	siwanhas	s i w a n̥ a s	0.0	True	0.12
+40-3-818-1	40	3-818	chuhut	tʃ u h u t	0.0	False	0.252747252747
+40-3-819-1	40	3-819	chuhut kaniyhoy	tʃ u h u t # k a n i j h o j	0.0	False	0.0833333333333
+40-3-82-1	40	3-820	nakwutaj	n a kʷ u t a x	0.0	False	0.139830508475
+40-3-82-2	40	3-820	pini	p i n i	0.0	False	0.139830508475
+40-3-82-3	40	3-820	kolonp’un	k o l o n p ʔ u n	0.0	False	0.139830508475
+40-3-82-4	40	3-820	nakwu	n a kʷ u	0.0	False	0.139830508475
+40-3-82-5	40	3-820	simhat	s i m̥ a t	0.0	False	0.139830508475
+40-3-82-6	40	3-820	supfwetaj	s u p fʷ e t a x	0.0	False	0.139830508475
+40-3-82-7	40	3-820	akoyek	a k o j e k	0.0	False	0.139830508475
+40-3-82-8	40	3-820	pemtsaj	p e m ts a x	0.0	False	0.139830508475
+40-3-82-9	40	3-820	neslo	n e s l o	0.0	False	0.139830508475
+40-3-82-10	40	3-820	wun’a	w u n ʔ a	0.0	False	0.139830508475
+40-3-82-11	40	3-820	nuwalhek	n u w a lˠ e k	0.0	False	0.139830508475
+40-3-82-12	40	3-820	tiklha	t i k lˠ a	0.0	False	0.139830508475
+40-3-82-13	40	3-820	matsitaj	m a ts i t a x	0.0	False	0.139830508475
+40-3-821-1	40	3-821	akoyek lhes	a k o j e k # lˠ e s	0.0	False	0.100746268657
+40-3-822-1	40	3-822	hap’uk	h a p ʔ u k	0.0	False	0.133757961783
+40-3-823-1	40	3-823	makwu	m a kʷ u	0.0	False	0.15969581749
+40-3-83-1	40	3-830	atak	a t a k	0.0	False	0.0519230769231
+40-3-831-1	40	3-831	fwinatak	fʷ i n a t a k	0.0	False	0.0833333333333
+40-3-832-1	40	3-832	yaphin’a	y a pʰ i n ʔ a	0.0	False	0.215909090909
+40-3-84-1	40	3-840	iwus	i w u s	0.0	False	0.124309392265
+40-3-84-2	40	3-840	fwinayhay	fʷ i n a j h a j	0.0	False	0.124309392265
+40-3-85-1	40	3-850	afwotsaj	a fʷ o ts a x	0.0	False	0.154228855721
+40-3-91-1	40	3-910	fwitonaj	fʷ i t o n a x	0.0	False	0.0972222222222
+40-3-92-1	40	3-920	chukuk	tʃ u k u k	0.0	False	0.140449438202
+40-3-93-1	40	3-930	chulh	tʃ u l̥	0.0	False	0.105555555556
+40-3-94-1	40	3-940	nahokwe’	n a h o kʷ e ʔ	0.0	False	0.209044368601
+40-3-94-2	40	3-940	lhelh	lˠ e l̥	0.0	False	0.209044368601
+40-3-95-1	40	3-950	poy’i	p o j ʔ i	0.0	False	0.224598930481
+40-3-96-1	40	3-960	chal’a	tʃ a l ʔ a	0.0	False	0.232673267327
+40-3-97-1	40	3-970	alhetaj	a lˠ e t a x	0.0	False	0.533333333333
+40-3-98-1	40	3-980	chitan’i	tʃ i t a n ʔ i	0.0	False	0.244791666667
+40-4-11-1	40	4-110	tosan	t o s a n	0.0	False	0.187835420394
+40-4-12-1	40	4-120	tot’oj	t o t ʔ o x	0.0	True	0.110978520286
+40-4-13-1	40	4-130	t’isan	t ʔ i s a n	0.0	False	0.14553314121
+40-4-14-1	40	4-140	tow’uley	t o w ʔ u l e j	0.0	False	0.056421830119
+40-4-142-1	40	4-142	toposey	t o p o s e j	0.0	False	0.168539325843
+40-4-144-1	40	4-144	topesey	t o p e s e j	0.0	False	0.123790552077
+40-4-145-1	40	4-145	tolhu w’uley	t o lˠ u # w ʔ u l e j	0.0	False	0.173594709495
+40-4-145-2	40	4-145	tose w’uley	t o s e # w ʔ u l e j	0.0	False	0.173594709495
+40-4-146-1	40	4-146	tolhetekmukw	t o lˠ e t e k m u kʷ	0.0	False	0.2625
+40-4-15-1	40	4-150	w’uyis	w ʔ u j i s	0.0	True	0.0957446808511
+40-4-151-1	40	4-151	tow’uyis n’oyij	t o w ʔ u j i s # n ʔ o j i x	0.0	False	0.262697022767
+40-4-16-1	40	4-160	lhile	lˠ i l e	0.0	True	0.0823529411765
+40-4-162-1	40	4-162	sijlhile	s i x lˠ i l e	0.0	False	0.112359550562
+40-4-17-1	40	4-170	toch’e	t o tʃ ʔ e	0.0	True	0.159782608696
+40-4-18-1	40	4-180	tochos	t o tʃ o s	0.0	True	0.117021276596
+40-4-19-1	40	4-190	towhu	t o w̥ u	0.0	True	0.0819209039548
+40-4-191-1	40	4-191	towhu lhile	t o w̥ u # lˠ i l e	0.0	False	0.135057471264
+40-4-2-1	40	4-200	tolhetek	t o lˠ e t e k	0.0	True	0.203531598513
+40-4-202-1	40	4-202	tolhetek lhile	t o lˠ e t e k # lˠ i l e	0.0	False	0.179347826087
+40-4-203-1	40	4-203	tokanhe	t o k a n̥ e	0.0	False	0.132432432432
+40-4-204-1	40	4-204	tottey	t o t t e j	0.0	False	0.268847795164
+40-4-205-1	40	4-205	totilho’	t o t i lˠ o ʔ	0.0	False	0.0657370517928
+40-4-207-1	40	4-207	toch’ay lhile	t o tʃ ʔ a j # lˠ i l e	0.0	False	0.13125
+40-4-208-1	40	4-208	toch’alu	t o tʃ ʔ a l u	0.0	False	0.0714285714286
+40-4-209-1	40	4-209	tokulun	t o k u l u n	0.0	False	0.0602409638554
+40-4-21-1	40	4-210	tottelhu	t o t t e lˠ u	0.0	True	0.096018735363
+40-4-212-1	40	4-212	tochusey	t o tʃ u s e j	0.0	False	0.146484375
+40-4-213-1	40	4-213	tottelhu t’oj	t o t t e lˠ u # t ʔ o x	0.0	False	0.0435684647303
+40-4-214-1	40	4-214	tottefwis	t o t t e fʷ i s	0.0	False	0.0739910313901
+40-4-215-1	40	4-215	tatets’im	t a t e ts ʔ i m	0.0	False	0.13829787234
+40-4-22-1	40	4-220	toch’ute’	t o tʃ ʔ u t e ʔ	0.0	True	0.10393258427
+40-4-221-1	40	4-221	toch’ute’san	t o tʃ ʔ u t e ʔ a n	0.0	False	0.0869565217391
+40-4-222-1	40	4-222	toch’ute’ lhits’i	t o tʃ ʔ u t e ʔ # lˠ i ts ʔ i	0.0	False	0.0779220779221
+40-4-23-1	40	4-230	tonhes	t o n̥ e s	0.0	True	0.0267857142857
+40-4-231-1	40	4-231	tonhespe’	t o n̥ e s p e ʔ	0.0	False	0.0714285714286
+40-4-232-1	40	4-232	chelhtaj	tʃ e lˠ t a x	0.0	False	0.0689655172414
+40-4-24-1	40	4-240	tok’aj	t o k ʔ a x	0.0	True	0.07962529274
+40-4-241-1	40	4-241	toposet	t o p o s e t	0.0	False	0.260180995475
+40-4-25-1	40	4-250	toposet	t o p o s e t	0.0	False	0.0821052631579
+40-4-26-1	40	4-260	tok’ajlhech’e	t o k ʔ a x lˠ e tʃ ʔ e	0.0	True	0.0663716814159
+40-4-27-1	40	4-270	totsute	t o ts u t e	0.0	True	0.117537313433
+40-4-271-1	40	4-271	totsute lhiley	t o ts u t e # lˠ i l e j	0.0	False	0.136255924171
+40-4-272-1	40	4-272	toch’alunchey	t o tʃ ʔ a l u n tʃ e j	0.0	False	0.0949367088608
+40-4-28-1	40	4-280	tow’u	t o w ʔ u	0.0	True	0.105
+40-4-281-1	40	4-281	tow’utes	t o w ʔ u t e s	0.0	False	0.166666666667
+40-4-29-1	40	4-290	toponhi	t o p o n̥ i	0.0	False	0.12969924812
+40-4-3-1	40	4-300	tofwapu	t o fʷ a p u	0.0	False	0.133858267717
+40-4-301-1	40	4-301	tofwapu lhile	t o fʷ a p u # lˠ i l e	0.0	False	0.233870967742
+40-4-302-1	40	4-302	towhulh	t o w̥ u l̥	0.0	False	0.1625
+40-4-31-1	40	4-310	totkwey	t o t kʷ e j	0.0	False	0.0932835820896
+40-4-312-1	40	4-312	towilisch’u	t o w i l i s tʃ ʔ u	0.0	False	0.146739130435
+40-4-32-1	40	4-320	tokatu	t o k a t u	0.0	False	0.0852272727273
+40-4-321-1	40	4-321	totkwew’u	t o t kʷ e w ʔ u	0.0	False	0.132653061224
+40-4-33-1	40	4-330	totkwe	t o t kʷ e	0.0	True	0.150735294118
+40-4-331-1	40	4-331	totkwech’u	t o t kʷ e tʃ ʔ u	0.0	False	0.10989010989
+40-4-34-1	40	4-340	tofwefw	t o fʷ e fʷ	0.0	False	0.0506912442396
+40-4-342-1	40	4-342	tofwefw lhukwe	t o fʷ e fʷ # lˠ u kʷ e	0.0	False	0.0795454545455
+40-4-344-1	40	4-344	tofwefwt’oj	t o fʷ e fʷ t ʔ o x	0.0	False	0.76
+40-4-345-1	40	4-345	tofwefw	t o fʷ e fʷ	0.0	True	0.116455696203
+40-4-35-1	40	4-350	totkolo	t o t k o l o	0.0	False	0.146186440678
+40-4-351-1	40	4-351	tolheche	t o lˠ e tʃ e	0.0	True	0.09375
+40-4-352-1	40	4-352	totkolots’e	t o t k o l o ts ʔ e	0.0	False	0.0723684210526
+40-4-36-1	40	4-360	top’ulhak	t o p ʔ u lˠ a k	0.0	True	0.0888888888889
+40-4-37-1	40	4-370	topach’u	t o p a tʃ ʔ u	0.0	True	0.141416510319
+40-4-371-1	40	4-371	tokasup’a	t o k a s u p ʔ a	0.0	False	0.112359550562
+40-4-372-1	40	4-372	topokhe	t o p o kʰ e	0.0	False	0.0569105691057
+40-4-374-1	40	4-374	ton’oyij	t o n ʔ o j i x	0.0	False	0.126959247649
+40-4-38-1	40	4-380	topach’u fwefw	t o p a tʃ ʔ u # fʷ e fʷ	0.0	False	0.0851063829787
+40-4-392-1	40	4-392	tolhefw	t o lˠ e fʷ	0.0	True	0.116379310345
+40-4-393-1	40	4-393	afwenche w’ule	a fʷ e n tʃ e # w ʔ u l e	0.0	True	0.109739368999
+40-4-4-1	40	4-400	tot’ukwe	t o t ʔ u kʷ e	0.0	False	0.172043010753
+40-4-41-1	40	4-410	tot’ate	t o t ʔ a t e	0.0	True	0.053317535545
+40-4-412-1	40	4-412	tot’ate lapes	t o t ʔ a t e # l a p e s	0.0	False	0.0622605363985
+40-4-42-1	40	4-420	tshowet t’atey	tsʰ o w e t # t ʔ a t e j	0.0	False	0.0455801104972
+40-4-43-1	40	4-430	tots’ak	t o ts ʔ a k	0.0	True	0.122448979592
+40-4-44-1	40	4-440	tot’utle	t o t ʔ u t l e	0.0	True	0.223300970874
+40-4-441-1	40	4-441	toyalhhis	t o j a l̥ h i s	0.0	False	0.261904761905
+40-4-45-1	40	4-450	totonek	t o t o n e k	0.0	True	0.130555555556
+40-4-451-1	40	4-451	tokatente	t o k a t e n t e	0.0	False	0.167630057803
+40-4-452-1	40	4-452	tow’uyishi	t o w ʔ u j i s h i	0.0	False	0.197368421053
+40-4-46-1	40	4-460	tots’e	t o ts ʔ e	0.0	False	0.31768558952
+40-4-461-1	40	4-461	totkosley	t o t k o s l e j	0.0	False	0.165
+40-4-462-1	40	4-462	toselak	t o s e l a k	0.0	False	0.159574468085
+40-4-463-1	40	4-463	towej lhile	t o w e x # lˠ i l e	0.0	False	0.125
+40-4-464-1	40	4-464	towejch’alus	t o w e x tʃ ʔ a l u s	0.0	False	0.0996677740864
+40-4-49-1	40	4-490	tochonis	t o tʃ o n i s	0.0	False	0.212851405622
+40-4-492-1	40	4-492	tolhu	t o lˠ u	0.0	False	0.290993071594
+40-4-51-1	40	4-510	t’iyalh	t ʔ i j a l̥	0.0	False	0.125
+40-4-52-1	40	4-520	hich’enlhi lak’aj	h i tʃ ʔ e n lˠ i # l a k ʔ a x	0.0	False	0.119047619048
+40-4-521-1	40	4-521	yul’e	y u l ʔ e	0.0	False	0.126506024096
+40-4-53-1	40	4-530	takhosi	t a kʰ o s i	0.0	False	0.0555555555556
+40-4-54-1	40	4-540	tanatshan	t a n a tsʰ a n	0.0	False	0.115291262136
+40-4-55-1	40	4-550	chefw ilon	tʃ e fʷ # i l o n	0.0	False	0.147959183673
+40-4-56-1	40	4-560	ifwats’encho’	i fʷ a ts ʔ e n tʃ o ʔ	0.0	False	0.0555555555556
+40-4-57-1	40	4-570	tach’eylhi	t a tʃ ʔ e j lˠ i	0.0	False	0.221003134796
+40-4-58-1	40	4-580	yukwaj	y u kʷ a x	0.0	True	0.0358361774744
+40-4-59-1	40	4-590	inap’e	i n a p ʔ e	0.0	False	0.16265060241
+40-4-591-1	40	4-591	lak’ajt’i	l a k ʔ a x t ʔ i	0.0	False	0.0961538461538
+40-4-61-1	40	4-610	imo	i m o	0.0	True	0.100190839695
+40-4-612-1	40	4-612	lanhes y’ip	l a n̥ e s # j ʔ i p	0.0	False	0.115
+40-4-62-1	40	4-620	tafwilhan	t a fʷ i lˠ a n	0.0	False	0.0862068965517
+40-4-63-1	40	4-630	t’iselit	t ʔ i s e l i t	0.0	False	0.10650887574
+40-4-64-1	40	4-640	tefwtey	t e fʷ t e j	0.0	False	0.35
+40-4-65-1	40	4-650	t’elh	t ʔ e l̥	0.0	False	0.188775510204
+40-4-66-1	40	4-660	t’alham	t ʔ a lˠ a m	0.0	False	0.14953271028
+40-4-67-1	40	4-670	wanhen	w a n̥ e n	0.0	False	0.123626373626
+40-4-68-1	40	4-680	tachettilhi	t a tʃ e t t i lˠ i	0.0	False	0.0728155339806
+40-4-68-2	40	4-680	tachettiche	t a tʃ e t t i tʃ e	0.0	False	0.0728155339806
+40-4-69-1	40	4-690	inay	i n a j	0.0	False	0.115384615385
+40-4-71-1	40	4-710	iwulhosahi	i w u lˠ o s a h i	0.0	False	0.162269129288
+40-4-72-1	40	4-720	nichotcho’	n i tʃ o t tʃ o ʔ	0.0	False	0.174712643678
+40-4-73-1	40	4-730	hich’utshan	h i tʃ ʔ u tsʰ a n	0.0	False	0.0700483091787
+40-4-73-2	40	4-730	waple	w a p l e	0.0	False	0.0700483091787
+40-4-732-1	40	4-732	iwulhosa	i w u lˠ o s a	0.0	False	0.0942028985507
+40-4-74-1	40	4-740	iloy	i l o j	0.0	False	0.131416837782
+40-4-75-1	40	4-750	y’ilh	y ʔ i l̥	0.0	False	0.204545454545
+40-4-75-2	40	4-750	ileyej hunhat	i l e j e x # h u n̥ a t	0.0	False	0.204545454545
+40-4-751-1	40	4-751	hich’a	h i tʃ ʔ a	0.0	False	0.162337662338
+40-4-76-1	40	4-760	ilon	i l o n	0.0	True	0.0777777777778
+40-4-77-1	40	4-770	top’itsek	t o p ʔ i ts e k	0.0	False	0.367117117117
+40-4-78-1	40	4-780	iputpe’	i p u t p e ʔ	0.0	False	0.11797752809
+40-4-79-1	40	4-790	tot’u	t o t ʔ u	0.0	False	0.301020408163
+40-4-81-1	40	4-810	takhajhay	t a kʰ a xʰ a j	0.0	False	0.275229357798
+40-4-82-1	40	4-820	tak’efwiche	t a k ʔ e fʷ i tʃ e	0.0	False	0.171506352087
+40-4-83-1	40	4-830	takhajhay	t a kʰ a xʰ a j	0.0	False	0.354526606773
+40-4-84-1	40	4-840	lawit’oy ihi	l a w i t ʔ o j # i h i	0.0	False	0.177902621723
+40-4-841-1	40	4-841	t’oj nichayu	t ʔ o x # n i tʃ a j u	0.0	False	0.306843540788
+40-4-842-1	40	4-842	laponhi t’ikwa	l a p o n̥ i # t ʔ i kʷ a	0.0	False	0.140625
+40-4-843-1	40	4-843	chelhtaj	tʃ e lˠ t a x	0.0	False	0.194552529183
+40-4-85-1	40	4-850	yomhu	y o m̥ u	0.0	False	0.152249134948
+40-4-852-1	40	4-852	hits’etajhi	h i ts ʔ e t a xʰ i	0.0	False	0.0700389105058
+40-4-853-1	40	4-853	t’ikwa	t ʔ i kʷ a	0.0	False	0.117346938776
+40-4-854-1	40	4-854	afwtsaj	a fʷ ts a x	0.0	False	0.0925196850394
+40-4-855-1	40	4-855	hits’ethen	h i ts ʔ e tʰ e n	0.0	False	0.0963855421687
+40-4-856-1	40	4-856	amuku	a m u k u	0.0	False	0.130555555556
+40-4-857-1	40	4-857	amut’i	a m u t ʔ i	0.0	False	0.119771863118
+40-4-858-1	40	4-858	amuyik	a m u j i k	0.0	False	0.244680851064
+40-4-86-1	40	4-860	ichesat	i tʃ e s a t	0.0	False	0.186868686869
+40-4-87-1	40	4-870	luktul	l u k t u l	1.0	False	0.591304347826
+40-4-87-2	40	4-870	kachawu	k a tʃ a w u	0.0	False	0.591304347826
+40-4-88-1	40	4-880	tokacha	t o k a tʃ a	0.0	False	0.421568627451
+40-4-89-1	40	4-890	tot’ilek	t o t ʔ i l e k	0.0	False	0.443060498221
+40-4-91-1	40	4-910	y’el	y ʔ e l	0.0	False	0.196942446043
+40-4-912-1	40	4-912	iwutamsecha	i w u t a m s e tʃ a	0.0	False	0.211895910781
+40-4-92-1	40	4-920	lufwu	l u fʷ u	0.0	False	0.235207100592
+40-4-92-2	40	4-920	n’etojlhi	n ʔ e t o x lˠ i	0.0	False	0.235207100592
+40-4-93-1	40	4-930	pole’	p o l e ʔ	0.0	False	0.193708609272
+40-4-94-1	40	4-940	tak’efwiche	t a k ʔ e fʷ i tʃ e	0.0	False	0.178571428571
+40-4-95-1	40	4-950	ch’utech’u	tʃ ʔ u t e tʃ ʔ u	0.0	False	0.157608695652
+40-4-96-1	40	4-960	wowo	w o w o	0.0	False	0.11875
+40-4-97-1	40	4-970	asnam	a s n a m	0.0	False	0.10989010989
+40-4-98-1	40	4-980	w’uknaj	w ʔ u k n a x	0.0	False	0.0679611650485
+40-4-99-1	40	4-990	tulajche	t u l a x tʃ e	0.0	False	0.078431372549
+40-5-11-1	40	5-110	tefw	t e fʷ	0.0	True	0.0801886792453
+40-5-12-1	40	5-120	kumila	k u m i l a	1.0	False	0.174603174603
+40-5-12-2	40	5-120	tolhok	t o lˠ o k	0.0	False	0.174603174603
+40-5-121-1	40	5-121	y’u	y ʔ u	0.0	False	0.063679245283
+40-5-122-1	40	5-122	n’uya	n ʔ u j a	0.0	False	0.0548128342246
+40-5-123-1	40	5-123	y’u	y ʔ u	0.0	False	0.094512195122
+40-5-124-1	40	5-124	n’uya	n ʔ u j a	0.0	False	0.1
+40-5-125-1	40	5-125	najhet	n a xʰ e t	0.0	False	0.157442748092
+40-5-13-1	40	5-130	iyoyej	i j o j e x	0.0	True	0.0956175298805
+40-5-14-1	40	5-140	nicheye	n i tʃ e j e	0.0	False	0.0302197802198
+40-5-141-1	40	5-141	nainlo	n a i n l o	0.0	False	0.172297297297
+40-5-15-1	40	5-150	ichim	i tʃ i m	0.0	False	0.0697674418605
+40-5-16-1	40	5-160	hits’e	h i ts ʔ e	0.0	True	0.0596252129472
+40-5-18-1	40	5-180	yukwajhi	y u kʷ a xʰ i	0.0	False	0.0738636363636
+40-5-181-1	40	5-181	tim	t i m	0.0	False	0.077380952381
+40-5-19-1	40	5-190	layalh ilon	l a j a lˠ # i l o n	0.0	False	0.173267326733
+40-5-21-1	40	5-210	ipen	i p e n	0.0	False	0.182862190813
+40-5-22-1	40	5-220	ipen	i p e n	0.0	False	0.175585284281
+40-5-23-1	40	5-230	hip’u	h i p ʔ u	0.0	False	0.279197080292
+40-5-24-1	40	5-240	hip’u	h i p ʔ u	0.0	False	0.157894736842
+40-5-25-1	40	5-250	wuy’uhi	w u j ʔ u h i	0.0	False	0.513888888889
+40-5-26-1	40	5-260	tuwej	t u w e x	0.0	False	0.327556325823
+40-5-27-1	40	5-270	pawa	p a w a	1.0	False	0.678038379531
+40-5-28-1	40	5-280	kaslula	k a s l u l a	1.0	False	0.548913043478
+40-5-31-1	40	5-310	fwenti	fʷ e n t i	1.0	False	0.549744897959
+40-5-32-1	40	5-320	platu	p l a t u	1.0	False	0.538551401869
+40-5-33-1	40	5-330	ch’utetaj	tʃ ʔ u t e t a x	0.0	False	0.558928571429
+40-5-34-1	40	5-340	tuwej	t u w e x	0.0	False	0.402826855124
+40-5-35-1	40	5-350	tolhothi	t o lˠ o tʰ i	0.0	False	0.615384615385
+40-5-36-1	40	5-360	platules	p l a t u l e s	1.0	False	0.5
+40-5-37-1	40	5-370	lanek	l a n e k	0.5	False	0.40099009901
+40-5-37-2	40	5-370	kutsala	k u ts a l a	1.0	False	0.40099009901
+40-5-38-1	40	5-380	lachinaj	l a tʃ i n a x	0.0	False	0.256711409396
+40-5-39-1	40	5-390	poy’ifwes	p o j ʔ i fʷ e s	0.0	False	0.543902439024
+40-5-391-1	40	5-391	tenasas	t e n a s a s	1.0	False	0.403125
+40-5-41-1	40	5-410	kumila	k u m i l a	1.0	False	0.138339920949
+40-5-46-1	40	5-460	ilanhit’oj	i l a n̥ i t ʔ o x	0.0	False	0.14606741573
+40-5-47-1	40	5-470	isaphi	i s a pʰ i	0.0	False	0.169300225734
+40-5-48-1	40	5-480	isit	i s i t	0.0	False	0.0927272727273
+40-5-49-1	40	5-490	ilhahthi	i lˠ a h tʰ i	0.0	False	0.126420454545
+40-5-51-1	40	5-510	pan	p a n	1.0	False	0.478747203579
+40-5-53-1	40	5-530	kasu	k a s u	0.0	False	0.308641975309
+40-5-54-1	40	5-540	ilhethi	i lˠ e tʰ i	0.0	False	0.151573292402
+40-5-55-1	40	5-550	alina	a l i n a	1.0	False	0.349514563107
+40-5-56-1	40	5-560	ichufwaj	i tʃ u fʷ a x	0.0	True	0.0813069908815
+40-5-57-1	40	5-570	ihwokw lanek	i hʷ o kʷ # l a n e k	0.0	False	0.296391752577
+40-5-58-1	40	5-580	fwelhek	fʷ e lˠ e k	0.0	False	0.182098765432
+40-5-59-1	40	5-590	fwelhekcha	fʷ e lˠ e k tʃ a	0.0	False	0.153846153846
+40-5-59-2	40	5-590	lanhat	l a n̥ a t	0.0	False	0.153846153846
+40-5-61-1	40	5-610	t’isan	t ʔ i s a n	0.0	False	0.126911314985
+40-5-64-1	40	5-640	sathi	s a tʰ i	0.0	False	0.530809859155
+40-5-66-1	40	5-660	pulutu	p u l u t u	1.0	False	0.405882352941
+40-5-66-2	40	5-660	onyaj	o n j a x	0.0	False	0.405882352941
+40-5-7-1	40	5-700	papa	p a p a	1.0	False	0.421551724138
+40-5-71-1	40	5-710	lha	lˠ a	0.0	False	0.254592651757
+40-5-712-1	40	5-712	totsanek	t o ts a n e k	0.0	False	0.140167364017
+40-5-76-1	40	5-760	uwa	u w a	1.0	False	0.459134615385
+40-5-78-1	40	5-780	aceituna	a c e i t u n a	1.0	False	0.927083333333
+40-5-79-1	40	5-790	aseitaj	a s e i t a x	1.0	False	0.599753694581
+40-5-791-1	40	5-791	tulupe’	t u l u p e ʔ	1.0	True	0.180434782609
+40-5-81-1	40	5-810	nisuy	n i s u j	0.0	True	0.151785714286
+40-5-82-1	40	5-820	ponhontaj	p o n̥ o n t a x	0.0	False	0.659420289855
+40-5-821-1	40	5-821	ponhon	p o n̥ o n	0.0	False	0.407894736842
+40-5-84-1	40	5-840	akoyek	a k o j e k	0.0	False	0.307926829268
+40-5-85-1	40	5-850	asukwi	a s u kʷ i	1.0	False	0.79375
+40-5-86-1	40	5-860	letsi	l e ts i	1.0	False	0.311797752809
+40-5-87-1	40	5-870	hits’ifwin	h i ts ʔ i fʷ i n	0.0	False	0.0699481865285
+40-5-88-1	40	5-880	chesu	tʃ e s u	1.0	False	0.664473684211
+40-5-89-1	40	5-890	manteka	m a n t e k a	1.0	False	0.486607142857
+40-5-9-1	40	5-900	tolhot	t o lˠ o t	0.0	False	0.0791208791209
+40-5-92-1	40	5-920	hat’es	h a t ʔ e s	0.0	False	0.739406779661
+40-5-93-1	40	5-930	selwesa	s e l w e s a	1.0	False	0.677514792899
+40-5-94-1	40	5-940	hat’es	h a t ʔ e s	0.0	False	0.477272727273
+40-5-97-1	40	5-970	lhech’e	lˠ e tʃ ʔ e	0.0	True	0.0901287553648
+40-5-971-1	40	5-971	laka’tekw	l a k a ʔ t e kʷ	0.0	False	0.0308641975309
+40-6-11-1	40	6-110	iwuw’eya	i w u w ʔ e j a	0.0	False	0.0707547169811
+40-6-12-1	40	6-120	tow’ey	t o w ʔ e j	0.0	False	0.197169811321
+40-6-13-1	40	6-130	totsekkawu	t o ts e k k a w u	0.0	False	0.294117647059
+40-6-21-1	40	6-210	sak’al	s a k ʔ a l	0.0	False	0.355731225296
+40-6-22-1	40	6-220	tsun’ataj wule	ts u n ʔ a t a x # w u l e	0.0	False	0.324257425743
+40-6-24-1	40	6-240	wesetaj	w e s e t a x	0.0	False	0.492957746479
+40-6-25-1	40	6-250	seda	s e d a	1.0	False	0.804054054054
+40-6-28-1	40	6-280	t’oj	t ʔ o x	0.0	False	0.293219303604
+40-6-29-1	40	6-290	t’oj	t ʔ o x	0.0	False	0.135278514589
+40-6-31-1	40	6-310	ipotsinche	i p o ts i n tʃ e	0.0	False	0.0133214920071
+40-6-33-1	40	6-330	tayhin	t a j h i n	0.0	False	0.0733137829912
+40-6-34-1	40	6-340	toyik	t o j i k	0.0	False	0.164864864865
+40-6-35-1	40	6-350	itsek	i ts e k	0.0	False	0.105263157895
+40-6-36-1	40	6-360	kanu	k a n u	0.0	False	0.374109263658
+40-6-38-1	40	6-380	ilu	i l u	1.0	False	0.282649253731
+40-6-39-1	40	6-390	ipak	i p a k	0.0	False	0.215434083601
+40-6-41-1	40	6-410	towhup’ut	t o w̥ u p ʔ u t	0.0	False	0.704347826087
+40-6-411-1	40	6-411	puntsu	p u n ts u	1.0	False	0.581081081081
+40-7-37-1	40	7-370	tosaites	t o s a i t e s	0.0	False	0.228855721393
+40-6-42-1	40	6-420	westilu	w e s t i l u	1.0	False	0.467741935484
+40-6-43-1	40	6-430	fwiy’etcha	fʷ i j ʔ e t tʃ a	0.0	False	0.60752688172
+40-6-44-1	40	6-440	y’eche	y ʔ e tʃ e	0.0	False	0.506034482759
+40-6-45-1	40	6-450	tolhamis	t o lˠ a m i s	0.0	False	0.37037037037
+40-6-46-1	40	6-460	westilu	w e s t i l u	1.0	False	0.609797297297
+40-6-461-1	40	6-461	totik	t o t i k	0.0	False	0.25
+40-6-48-1	40	6-480	tokuset	t o k u s e t	0.0	False	0.564516129032
+40-6-49-1	40	6-490	melyus	m e l j u s	1.0	False	0.684426229508
+40-6-51-1	40	6-510	tonisoj	t o n i s o x	0.0	False	0.4516765286
+40-6-52-1	40	6-520	wutas	w u t a s	1.0	False	0.674496644295
+40-6-54-1	40	6-540	sapatuwu	s a p a t u w u	1.0	False	0.241379310345
+40-6-55-1	40	6-550	wun’a	w u n ʔ a	0.0	False	0.492307692308
+40-6-57-1	40	6-570	tokawak	t o k a w a k	0.0	False	0.298013245033
+40-6-58-1	40	6-580	tofweshi	t o fʷ e s h i	0.0	False	0.234375
+40-6-59-1	40	6-590	tottep’ut	t o t t e p ʔ u t	0.0	False	0.6
+40-6-61-1	40	6-610	tokhoyhi	t o kʰ o j h i	0.0	False	0.599397590361
+40-6-62-1	40	6-620	wutum	w u t u m	1.0	False	0.585227272727
+40-6-71-1	40	6-710	tohenettsek	t o h e n e t t s e k	0.0	False	0.312277580071
+40-6-72-1	40	6-720	tohenettsek	t o h e n e t t s e k	0.0	False	0.478378378378
+40-6-73-1	40	6-730	tofwefwhi	t o fʷ e fʷ h i	0.0	False	0.224137931034
+40-6-74-1	40	6-740	totkwet’ak	t o t kʷ e t ʔ a k	0.0	False	0.198588709677
+40-6-75-1	40	6-750	tolhamis	t o lˠ a m i s	0.0	False	0.239
+40-6-76-1	40	6-760	tolhamis	t o lˠ a m i s	0.0	False	0.249057492931
+40-6-77-1	40	6-770	toch’utelhele	t o tʃ ʔ u t e lˠ e l e	0.0	False	0.209677419355
+40-6-78-1	40	6-780	tolhetekt’ak	t o lˠ e t e k t ʔ a k	0.0	False	0.368131868132
+40-6-79-1	40	6-790	tolet	t o l e t	0.0	False	0.234104046243
+40-6-81-1	40	6-810	tofwi	t o fʷ i	0.0	False	0.480182926829
+40-6-82-1	40	6-820	towayu	t o w a j u	1.0	False	0.661417322835
+40-6-91-1	40	6-910	tsunis	ts u n i s	0.0	False	0.166666666667
+40-6-92-1	40	6-920	sepiya	s e p i j a	1.0	False	0.48417721519
+40-6-921-1	40	6-921	ipotsinche	i p o ts i n tʃ e	0.0	False	0.217303822938
+40-6-93-1	40	6-930	toposecha	t o p o s e tʃ a	0.0	False	0.343023255814
+40-6-94-1	40	6-940	mak t’alho	m a k # t ʔ a lˠ o	0.0	False	0.430722891566
+40-6-95-1	40	6-950	fwawun	fʷ a w u n	1.0	False	0.778409090909
+40-6-96-1	40	6-960	topeyakhi	t o p e j a kʰ i	0.0	False	0.39715536105
+40-7-11-1	40	7-110	ihi	i h i	0.0	False	0.146984924623
+40-7-12-1	40	7-120	tow’et	t o w ʔ e t	0.0	True	0.106694560669
+40-7-13-1	40	7-130	hep	h e p	0.0	False	0.393907563025
+40-7-13-2	40	7-130	chechelhep	tʃ e tʃ e lˠ e p	0.0	False	0.393907563025
+40-7-14-1	40	7-140	chechelhep	tʃ e tʃ e lˠ e p	0.0	False	0.635761589404
+40-7-15-1	40	7-150	tokuyw’et	t o k u j w ʔ e t	0.0	False	0.234716157205
+40-7-17-1	40	7-170	tolhatajw’et	t o lˠ a t a xʷ ʔ e t	0.0	False	0.327669902913
+40-7-18-1	40	7-180	toheseyw’et	t o h e s e j w ʔ e t	0.0	False	0.254385964912
+40-7-21-1	40	7-210	tow’etch’ulh	t o w ʔ e t tʃ ʔ u l̥	0.0	False	0.514808362369
+40-7-22-1	40	7-220	lape’	l a p e ʔ	0.0	False	0.226744186047
+40-7-23-1	40	7-230	lape lhele	l a p e # lˠ e l e	0.0	False	0.506493506494
+40-7-231-1	40	7-231	lape lhele	l a p e # lˠ e l e	0.0	False	0.403693931398
+40-7-24-1	40	7-240	yawe	y a w e	1.0	False	0.473469387755
+40-7-25-1	40	7-250	wentana	w e n t a n a	1.0	False	0.568014705882
+40-7-26-1	40	7-260	hunhat	h u n̥ a t	0.0	False	0.34628975265
+40-7-31-1	40	7-310	itoj toj wefw	i t o x # t o x # w e fʷ	0.0	False	0.232905982906
+40-7-33-1	40	7-330	tetsaj n’oyij	t e ts a x # n ʔ o j i x	0.0	False	0.335714285714
+40-7-42-1	40	7-420	tomow’et	t o m o w ʔ e t	0.0	False	0.386138613861
+40-7-421-1	40	7-421	tot’alaj	t o t ʔ a l a x	0.0	False	0.255952380952
+40-7-422-1	40	7-422	kulhtsa	k u lˠ ts a	1.0	False	0.478260869565
+40-7-43-1	40	7-430	towejw’et	t o w e xʷ ʔ e t	0.0	False	0.469696969697
+40-7-43-2	40	7-430	siya	s i j a	1.0	False	0.469696969697
+40-7-44-1	40	7-440	mesa	m e s a	1.0	False	0.735408560311
+40-7-45-1	40	7-450	tochokw	t o tʃ o kʷ	0.0	False	0.648866348449
+40-7-46-1	40	7-460	wela	w e l a	1.0	False	0.626506024096
+40-7-47-1	40	7-470	tokaw’et	t o k a w ʔ e t	0.0	False	0.444206008584
+40-7-51-1	40	7-510	hep lhetekch’u	h e p # lˠ e t e k tʃ ʔ u	0.0	False	0.142574257426
+40-7-52-1	40	7-520	hep lhetekch’u	h e p # lˠ e t e k tʃ ʔ u	0.0	False	0.0274390243902
+40-7-53-1	40	7-530	lawhu lhile	l a w̥ u # lˠ i l e	0.0	False	0.122950819672
+40-7-54-1	40	7-540	hep sijlhiley	h e p # s i x lˠ i l e j	0.0	False	0.165198237885
+40-7-55-1	40	7-550	heplhip lheley	h e p lˠ i p # lˠ e l e j	0.0	False	0.302281368821
+40-7-56-1	40	7-560	pusti	p u s t i	1.0	False	0.389097744361
+40-7-57-1	40	7-570	hal’o lhip	h a l ʔ o # lˠ i p	0.0	False	0.375
+40-7-62-1	40	7-620	alulis	a l u l i s	1.0	False	0.664473684211
+40-7-64-1	40	7-640	alulis	a l u l i s	1.0	False	0.313953488372
+40-8-12-1	40	8-120	tokosw’et	t o k o s + wˀ e t	0.0	False	0.190602836879
+40-8-16-1	40	8-160	tolafwek	t o l a fʷ e k	0.0	False	0.268292682927
+40-8-17-1	40	8-170	toletsanek	t o l e ts a n e k	0.0	False	0.483108108108
+40-8-21-1	40	8-210	isajhi	i s a xʰ i	0.0	False	0.261501210654
+40-8-212-1	40	8-212	tokos n’oyij	t o k o s # n ʔ o j i x	0.0	False	0.189473684211
+40-8-22-1	40	8-220	tishi	t i s h i	0.0	False	0.10834670947
+40-8-23-1	40	8-230	asala	a s a l a	1.0	False	0.498626373626
+40-8-24-1	40	8-240	pala	p a l a	1.0	False	0.610759493671
+40-8-25-1	40	8-250	asalataj	a s a l a t a x	1.0	False	0.291666666667
+40-8-26-1	40	8-260	afwtsinaj	a fʷ ts i n a x	0.0	False	0.407514450867
+40-8-31-1	40	8-310	tetchey	t e t tʃ e j	0.0	False	0.0678879310345
+40-8-31-2	40	8-310	itsayhat	i ts a j h a t	0.0	False	0.0678879310345
+40-8-311-1	40	8-311	tokoslhu’	t o k o s lˠ u ʔ	0.0	True	0.198807157058
+40-8-32-1	40	8-320	yiset	y i s e t	0.0	False	0.156818181818
+40-8-33-1	40	8-330	matsetaj	m a ts e t a x	1.0	False	0.522222222222
+40-8-34-1	40	8-340	ilanche lhuy	i l a n tʃ e # lˠ u j	0.0	False	0.173611111111
+40-8-41-1	40	8-410	ilanche lakos	i l a n tʃ e # l a k o s	0.0	False	0.272491349481
+40-8-43-1	40	8-430	tiliwa	t i l i w a	1.0	False	0.522413793103
+40-8-47-1	40	8-470	siputka	s i p u t k a	0.0	False	0.39156626506
+40-8-48-1	40	8-480	alus	a l u s	1.0	False	0.616666666667
+40-8-51-1	40	8-510	hep	h e p	0.0	False	0.173719376392
+40-8-52-1	40	8-520	hep	h e p	0.0	False	0.149253731343
+40-8-53-1	40	8-530	tokos	t o k o s	0.0	False	0.358090185676
+40-8-531-1	40	8-531	ithatcho’	i tʰ a t tʃ o ʔ	0.0	False	0.230198019802
+40-8-531-2	40	8-531	tetchey	t e t tʃ e j	0.0	False	0.230198019802
+40-8-54-1	40	8-540	lafwettsi	l a fʷ e t t s i	0.0	True	0.0558823529412
+40-8-55-1	40	8-550	lhacha	lˠ a tʃ a	0.0	False	0.171532846715
+40-8-56-1	40	8-560	lawule	l a w u l e	0.0	True	0.103250478011
+40-8-57-1	40	8-570	lhawu	lˠ a w u	0.5	False	0.251256281407
+40-8-6-1	40	8-600	hal’o	h a l ʔ o	0.0	False	0.252136752137
+40-8-61-1	40	8-610	hal’o	h a l ʔ o	0.0	False	0.290155440415
+40-8-62-1	40	8-620	hal’o	h a l ʔ o	0.0	False	0.138613861386
+40-8-63-1	40	8-630	hal’o	h a l ʔ o	0.0	False	0.187919463087
+40-8-64-1	40	8-640	hal’o	h a l ʔ o	0.0	False	0.414746543779
+40-8-65-1	40	8-650	hal’o	h a l ʔ o	0.0	False	0.315789473684
+40-8-67-1	40	8-670	fwiyelaj	fʷ i j e l a x	0.0	False	0.194087403599
+40-8-67-2	40	8-670	newukw	n e w u kʷ	0.0	False	0.194087403599
+40-8-68-1	40	8-680	yukwas	y u kʷ a s	0.0	False	0.6640969163
+40-8-69-1	40	8-690	iwuts’ekwa	i w u ts ʔ e kʷ a	0.0	False	0.19918699187
+40-8-691-1	40	8-691	tochethi	t o tʃ e tʰ i	0.0	False	0.601851851852
+40-8-72-1	40	8-720	hal’o	h a l ʔ o	0.0	False	0.11855104281
+40-8-73-1	40	8-730	hal’otes	h a l ʔ o t e s	0.0	False	0.0976821192053
+40-8-74-1	40	8-740	lhacha	lˠ a tʃ a	0.0	False	0.136363636364
+40-8-75-1	40	8-750	tolhistek	t o lˠ i s t e k	0.0	True	0.160965794769
+40-8-76-1	40	8-760	hal’o lhits’i	h a l ʔ o # lˠ i ts ʔ i	0.0	False	0.198396793587
+40-8-81-1	40	8-810	fwitsekw	fʷ i ts e kʷ	0.0	False	0.3
+40-8-84-1	40	8-840	wanana	w a n a n a	1.0	False	0.621794871795
+40-8-91-1	40	8-910	watata	w a t a t a	1.0	False	0.347074468085
+40-8-92-1	40	8-920	manyuku	m a n j u k u	1.0	False	0.426229508197
+40-8-93-1	40	8-930	ahwula	a hʷ u l a	0.0	False	0.263513513514
+40-8-931-1	40	8-931	ischin	i s tʃ i n	0.0	False	0.401898734177
+40-8-941-1	40	8-941	kanuhi	k a n u h i	0.0	False	0.253846153846
+40-8-97-1	40	8-970	chesoy	tʃ e s o j	0.0	False	0.15
+40-8-98-1	40	8-980	ahotlhu	a h o t lˠ u	0.0	False	0.266666666667
+40-8-98-2	40	8-980	mawutonek	m a w u t o n e k	0.0	False	0.266666666667
+40-9-11-1	40	9-110	iwuye	i w u j e	0.0	True	0.0278323510151
+40-9-12-1	40	9-120	tochemet	t o tʃ e m e t	0.0	False	0.36197440585
+40-9-14-1	40	9-140	ichujnhathu	i tʃ u x n̥ a tʰ u	0.0	False	0.125
+40-9-15-1	40	9-150	hits’efwyenhu	h i ts ʔ e fʷ j e n̥ u	0.0	False	0.0962264150943
+40-9-16-1	40	9-160	inayhit	i n a j h i t	0.0	True	0.121037463977
+40-9-161-1	40	9-161	ilanhi	i l a n̥ i	0.0	False	0.0824524312896
+40-9-18-1	40	9-180	kalenis	k a l e n i s	1.0	False	0.561752988048
+40-9-19-1	40	9-190	niyokw	n i j o kʷ	0.0	True	0.151865008881
+40-9-192-1	40	9-192	lakutsu	l a k u ts u	0.0	False	0.105555555556
+40-9-21-1	40	9-210	yikojlhi	y i k o x lˠ i	0.0	True	0.0448979591837
+40-9-211-1	40	9-211	yikojhi	y i k o xʰ i	0.0	False	0.218623481781
+40-9-22-1	40	9-220	yiset	y i s e t	0.0	False	0.0811584977721
+40-9-221-1	40	9-221	yiset	y i s e t	0.0	False	0.0668316831683
+40-9-222-1	40	9-222	yenlhipeya	y e n lˠ i p e j a	0.0	False	0.0501485884101
+40-9-223-1	40	9-223	itsonhu	i ts o n̥ u	0.0	False	0.0971337579618
+40-9-23-1	40	9-230	lachinaj	l a tʃ i n a x	0.0	False	0.383823529412
+40-9-24-1	40	9-240	tishelis	t i s h e l i s	1.0	False	0.478346456693
+40-9-25-1	40	9-250	husan	h u s a n	0.0	False	0.349397590361
+40-9-26-1	40	9-260	ichohot	i tʃ o h o t	0.0	False	0.0656934306569
+40-9-261-1	40	9-261	icho’	i tʃ o ʔ	0.0	False	0.0912162162162
+40-9-27-1	40	9-270	hich’esaj	h i tʃ ʔ e s a x	0.0	False	0.138089758343
+40-9-28-1	40	9-280	y’ajhu	y ʔ a xʰ u	0.0	False	0.0646153846154
+40-9-83-1	40	9-830	tolhenek	t o lˠ e n e k	0.0	False	0.339622641509
+40-9-29-1	40	9-290	ilanhit’oj	i l a n̥ i t ʔ o x	0.0	False	0.111524163569
+40-9-31-1	40	9-310	ifwetlhi	i fʷ e t lˠ i	0.0	False	0.167525773196
+40-9-32-1	40	9-320	itunhi	i t u n̥ i	0.0	False	0.0852272727273
+40-9-33-1	40	9-330	itunhi	i t u n̥ i	0.0	False	0.135859519409
+40-9-34-1	40	9-340	itsoy	i ts o j	0.0	False	0.10447761194
+40-9-34-2	40	9-340	iti’pe’	i t i ʔ p e ʔ	0.0	False	0.10447761194
+40-9-341-1	40	9-341	ifwehyenlhi	i fʷ e h j e n lˠ i	0.0	False	0.107859531773
+40-9-342-1	40	9-342	hits’ifwinhu	h i ts ʔ i fʷ i n̥ u	0.0	False	0.200203252033
+40-9-343-1	40	9-343	hits’ifwin	h i ts ʔ i fʷ i n	0.0	False	0.181734317343
+40-9-35-1	40	9-350	itsoy	i ts o j	0.0	False	0.13064516129
+40-9-36-1	40	9-360	ilej	i l e x	0.0	False	0.0982142857143
+40-9-37-1	40	9-370	isek	i s e k	0.0	False	0.132530120482
+40-9-38-1	40	9-380	eskuwa	e s k u w a	1.0	False	0.177215189873
+40-9-422-1	40	9-422	tochemetcha	t o tʃ e m e t tʃ a	0.0	False	0.3515625
+40-9-43-1	40	9-430	kalpintelu	k a l p i n t e l u	1.0	False	0.506944444444
+40-9-44-1	40	9-440	ipotsin	i p o ts i n	0.0	False	0.198921105866
+40-9-46-1	40	9-460	ituyen	i t u j e n	0.0	False	0.146341463415
+40-9-461-1	40	9-461	tishu	t i s h u	0.0	False	0.0426829268293
+40-9-48-1	40	9-480	alhetaj chos	a lˠ e t a x # tʃ o s	0.0	False	0.422619047619
+40-9-49-1	40	9-490	maltiya	m a l t i j a	1.0	False	0.45145631068
+40-9-5-1	40	9-500	hal’o lhele	h a l ʔ o # lˠ e l e	0.0	False	0.408783783784
+40-9-6-1	40	9-600	herrero	h e r r e r o	1.0	False	0.29012345679
+40-9-64-1	40	9-640	oro	o r o	1.0	False	0.574742268041
+40-9-65-1	40	9-650	plata	p l a t a	1.0	False	0.508695652174
+40-9-66-1	40	9-660	bronce	b r o n c e	1.0	False	0.586419753086
+40-9-67-1	40	9-670	lachinaj	l a tʃ i n a x	0.0	False	0.272727272727
+40-9-68-1	40	9-680	lachinaj mukw	l a tʃ i n a x # m u kʷ	0.0	False	0.528985507246
+40-9-71-1	40	9-710	tolhokwewu	t o lˠ o kʷ e w u	0.0	False	0.169117647059
+40-9-72-1	40	9-720	itech’aynej	i t e tʃ ʔ a j n e x	0.0	False	0.156069364162
+40-9-73-1	40	9-730	iyhot	i j h o t	0.0	False	0.0991189427313
+40-9-74-1	40	9-740	wiliu	w i l i u	1.0	False	0.617841409692
+40-9-75-1	40	9-750	ipotsinche	i p o ts i n tʃ e	0.0	False	0.08255243195
+40-9-76-1	40	9-760	kanastu	k a n a s t u	1.0	False	0.41592920354
+40-9-771-1	40	9-771	wesaj	w e s a x	0.0	False	0.671232876712
+40-9-78-1	40	9-780	hutanaj	h u t a n a x	0.0	False	0.487804878049
+40-9-79-1	40	9-790	tohechefw	t o h e tʃ e fʷ	0.0	False	0.25974025974
+40-9-791-1	40	9-791	lhayafwtej	lˠ a j a fʷ t e x	0.0	False	0.133333333333
+40-9-81-1	40	9-810	itech’aynej	i t e tʃ ʔ a j n e x	0.0	False	0.265593561368
+40-9-88-1	40	9-880	pintula	p i n t u l a	1.0	False	0.518375241779
+40-9-89-1	40	9-890	pinta	p i n t a	1.0	False	0.334608030593
+40-10-11-1	40	10-110	iloyhatlhi	i l o j h a t lˠ i	0.0	False	0.281914893617
+40-10-12-1	40	10-120	ilenejlhi	i l e n e x lˠ i	0.0	False	0.148288973384
+40-10-13-1	40	10-130	ilen	i l e n	0.0	False	0.0962837837838
+40-10-14-1	40	10-140	yikofwel	y i k o fʷ e l	0.0	False	0.114583333333
+40-10-15-1	40	10-150	yikofwelhche	y i k o fʷ e lˠ tʃ e	0.0	False	0.187125748503
+40-10-16-1	40	10-160	ileyej	i l e j e x	0.0	False	0.0404131118096
+40-10-17-1	40	10-170	hits’elhkatche	h i ts ʔ e lˠ k a t tʃ e	0.0	False	0.157894736842
+40-10-21-1	40	10-210	yihukpho	y i h u k pʰ o	0.0	False	0.0111234705228
+40-10-22-1	40	10-220	itunpho	i t u n pʰ o	0.0	False	0.0868167202572
+40-10-23-1	40	10-230	tolhpho	t o lˠ pʰ o	0.0	True	0.0541516245487
+40-10-24-1	40	10-240	nitun	n i t u n	0.0	False	0.0581395348837
+40-10-25-1	40	10-250	tafwumej	t a fʷ u m e x	0.0	False	0.0402985074627
+40-10-252-1	40	10-252	tachema	t a tʃ e m a	0.0	False	0.158069883527
+40-10-26-1	40	10-260	isichot	i s i tʃ o t	0.0	False	0.172413793103
+40-10-32-1	40	10-320	yik	y i k	0.0	False	0.041958041958
+40-10-33-1	40	10-330	yeycho’	y e j tʃ o ʔ	0.0	False	0.100371747212
+40-10-34-1	40	10-340	ipe’not	i p e ʔ n o t	0.0	False	0.0504484304933
+40-10-35-1	40	10-350	t’ilin	t ʔ i l i n	0.0	True	0.103346456693
+40-10-351-1	40	10-351	yeycho’	y e j tʃ o ʔ	0.0	False	0.15690376569
+40-10-36-1	40	10-360	tiyojche inot	t i j o x tʃ e # i n o t	0.0	False	0.147058823529
+40-10-37-1	40	10-370	wiy’o	w i j ʔ o	0.0	True	0.13114071607
+40-10-38-1	40	10-380	yafwit	y a fʷ i t	0.0	True	0.0377906976744
+40-10-41-1	40	10-410	takuslhi	t a k u s lˠ i	0.0	False	0.1125
+40-10-412-1	40	10-412	itsinen lap’ulhkas	i ts i n e n # l a p ʔ u lˠ k a s	0.0	False	0.0670731707317
+40-10-413-1	40	10-413	nitselhot	n i ts e lˠ o t	0.0	False	0.215909090909
+40-10-42-1	40	10-420	hip’etaj	h i p ʔ e t a x	0.0	False	0.11214953271
+40-10-43-1	40	10-430	tiyojpho	t i j o x pʰ o	0.0	False	0.0639344262295
+40-10-43-2	40	10-430	takatin	t a k a t i n	0.0	False	0.0639344262295
+40-10-43-3	40	10-430	tiyojpe’	t i j o x p e ʔ	0.0	False	0.0639344262295
+40-10-431-1	40	10-431	y’aj	y ʔ a x	0.0	False	0.139805825243
+40-10-44-1	40	10-440	wayla	w a j l a	1.0	False	0.285714285714
+40-10-44-2	40	10-440	takatin	t a k a t i n	0.0	False	0.285714285714
+40-10-45-1	40	10-450	yik	y i k	0.0	True	0.0882352941176
+40-10-451-1	40	10-451	ik’efwyenche	i k ʔ e fʷ j e n tʃ e	0.0	False	0.17032967033
+40-10-46-1	40	10-460	ine’alhuhu	i n e ʔ a lˠ u h u	0.0	True	0.0241935483871
+40-10-47-1	40	10-470	yik	y i k	0.0	True	0.0370786516854
+40-10-471-1	40	10-471	yihukpho	y i h u k pʰ o	0.0	False	0.113764044944
+40-10-472-1	40	10-472	taw’elhu	t a w ʔ e lˠ u	0.0	False	0.0463483146067
+40-10-473-1	40	10-473	ineycho’	i n e j tʃ o ʔ	0.0	False	0.121621621622
+40-10-474-1	40	10-474	yikch’uya	y i k tʃ ʔ u j a	0.0	False	0.0277136258661
+40-10-48-1	40	10-480	nom	n o m	0.0	True	0.0323275862069
+40-10-481-1	40	10-481	tapilh	t a p i l̥	0.0	False	0.177480916031
+40-10-481-2	40	10-481	yopilh	y o p i l̥	0.0	False	0.177480916031
+40-10-49-1	40	10-490	yik	y i k	0.0	False	0.135880267822
+40-10-491-1	40	10-491	y’um	y ʔ u m	0.0	False	0.133333333333
+40-10-51-1	40	10-510	yihonlhi	y i h o n lˠ i	0.0	False	0.125
+40-10-52-1	40	10-520	yihon	y i h o n	0.0	False	0.0715767634855
+40-10-53-1	40	10-530	yihonlhi	y i h o n lˠ i	0.0	False	0.16049382716
+40-10-55-1	40	10-550	yomey	y o m e j	0.0	False	0.16848673947
+40-10-56-1	40	10-560	yomwhoye	y o m w̥ o j e	0.0	False	0.0729166666667
+40-10-57-1	40	10-570	yihukfwi	y i h u k fʷ i	0.0	False	0.75
+40-10-61-1	40	10-610	tilhoj	t i lˠ o x	0.0	True	0.0808918496363
+40-10-612-1	40	10-612	ichoj	i tʃ o x	0.0	False	0.112319486539
+40-10-613-1	40	10-613	tilhoj	t i lˠ o x	0.0	False	0.0981225044601
+40-10-614-1	40	10-614	tilhoj	t i lˠ o x	0.0	False	0.185709232402
+40-10-615-1	40	10-615	ichoj itikfwi lawilisch’u	i tʃ o x # i t i k fʷ i # l a w i l i s tʃ ʔ u	0.0	False	0.0782664253008
+40-10-62-1	40	10-620	ichoja	i tʃ o x a	0.0	False	0.0180084745763
+40-10-63-1	40	10-630	ithatey	i tʰ a t e j	0.0	False	0.133177570093
+40-10-64-1	40	10-640	ipoyenche	i p o j e n tʃ e	0.0	False	0.157051282051
+40-10-65-1	40	10-650	manija	m a n i x a	1.0	False	0.331828442438
+40-10-66-1	40	10-660	ipe’	i p e ʔ	0.0	False	0.197080291971
+40-10-67-1	40	10-670	yihetche	y i h e t tʃ e	0.0	False	0.172597864769
+40-10-71-1	40	10-710	n’oyij	n ʔ o j i x	0.0	True	0.311659192825
+40-10-72-1	40	10-720	senda	s e n d a	1.0	False	0.207468879668
+40-10-74-1	40	10-740	pwentu	pʷ e n t u	1.0	False	0.417159763314
+40-10-75-1	40	10-750	kaletaj	k a l e t a x	1.0	False	0.667922020381
+40-10-76-1	40	10-760	mak kolo	m a k # k o l o	0.0	False	0.460843373494
+40-10-77-1	40	10-770	totkolhlhile	t o t k o l̥ + l̥ i l e	0.0	False	0.448453608247
+40-10-78-1	40	10-780	weyis w’uhi	w e j i s # w ʔ u h i	1.0	False	0.405405405405
+40-10-81-1	40	10-810	walku	w a l k u	1.0	False	0.608695652174
+40-10-83-1	40	10-830	walku lhos	w a l k u # lˠ o s	1.0	False	0.535294117647
+40-10-831-1	40	10-831	tsalana	ts a l a n a	1.0	False	0.435714285714
+40-10-85-1	40	10-850	tsalanacha	ts a l a n a tʃ a	1.0	False	0.455882352941
+40-10-851-1	40	10-851	tsalanacha	ts a l a n a tʃ a	1.0	False	0.28164556962
+40-10-852-1	40	10-852	iseklo’ inot	i s e k l o ʔ # i n o t	0.0	False	0.210900473934
+40-10-86-1	40	10-860	timon	t i m o n	1.0	False	0.460227272727
+40-10-87-1	40	10-870	wanderaw’et	w a n d e r a w ʔ e t	1.0	False	0.339622641509
+40-10-89-1	40	10-890	walku katmek	w a l k u # k a t m e k	1.0	False	0.58389261745
+40-10-91-1	40	10-910	puerto	p u e r t o	1.0	False	0.433070866142
+40-11-11-1	40	11-110	tilhamej	t i lˠ a m e x	0.0	False	0.0366524129505
+40-11-12-1	40	11-120	hiw’en	h i w ʔ e n	0.0	False	0.256097560976
+40-11-13-1	40	11-130	tachema	t a tʃ e m a	0.0	True	0.100439773405
+40-11-14-1	40	11-140	tachema	t a tʃ e m a	0.0	False	0.0295130349238
+40-11-15-1	40	11-150	ichojlhi	i tʃ o x lˠ i	0.0	False	0.100222717149
+40-11-17-1	40	11-170	yikanej	y i k a n e x	0.0	False	0.148984198646
+40-11-18-1	40	11-180	mayek	m a j e k	0.0	False	0.227722772277
+40-11-21-1	40	11-210	hiw’enhu	h i w ʔ e n̥ u	0.0	True	0.0867768595041
+40-11-22-1	40	11-220	yachaj	y a tʃ a x	0.0	False	0.0882352941176
+40-11-24-1	40	11-240	yikanej	y i k a n e x	0.0	False	0.24145785877
+40-11-25-1	40	11-250	ifwayhat	i fʷ a j h a t	0.0	False	0.368154158215
+40-11-27-1	40	11-270	yikonchi	y i k o n tʃ i	0.0	False	0.178846153846
+40-11-28-1	40	11-280	isaj	i s a x	0.0	False	0.186842105263
+40-11-31-1	40	11-310	t’ekwe	t ʔ e kʷ e	0.0	False	0.0836614173228
+40-11-32-1	40	11-320	nesa	n e s a	0.0	False	0.0859303391384
+40-11-33-1	40	11-330	tatoy	t a t o j	0.0	False	0.0371900826446
+40-11-34-1	40	11-340	ilanhi	i l a n̥ i	0.0	False	0.119272555503
+40-11-34-2	40	11-340	yomet	y o m e t	0.0	False	0.119272555503
+40-11-34-3	40	11-340	ileyej	i l e j e x	0.0	False	0.119272555503
+40-11-43-1	40	11-430	tokow’oj	t o k o w ʔ o x	0.0	False	0.5375
+40-11-44-1	40	11-440	munelu	m u n e l u	1.0	False	0.533524904215
+40-11-51-1	40	11-510	niyat	n i j a t	0.0	False	0.284745762712
+40-11-52-1	40	11-520	p’alitsaj	p ʔ a l i ts a x	0.0	False	0.4461414791
+40-11-52-2	40	11-520	pwili	pʷ i l i	1.0	False	0.4461414791
+40-11-53-1	40	11-530	w’aytsaj	w ʔ a j ts a x	0.0	False	0.20719844358
+40-11-54-1	40	11-540	atsufwnaj	a ts u fʷ n a x	0.0	False	0.217391304348
+40-11-61-1	40	11-610	icheihona	i tʃ e i h o n a	0.0	False	0.0753424657534
+40-11-62-1	40	11-620	icheihona	i tʃ e i h o n a	0.0	False	0.109630266552
+40-11-63-1	40	11-630	lacheyjonhat	l a tʃ e j x o n̥ a t	0.0	False	0.186046511628
+40-11-64-1	40	11-640	lates	l a t e s	0.0	False	0.307531380753
+40-11-65-1	40	11-650	iwuhaya	i w u h a j a	0.0	False	0.303797468354
+40-11-66-1	40	11-660	wuletu	w u l e t u	1.0	False	0.630281690141
+40-11-69-1	40	11-690	impuesto	i m p u e s t o	1.0	False	0.590361445783
+40-11-77-1	40	11-770	ichemyenlhi	i tʃ e m j e n lˠ i	0.0	False	0.378472222222
+40-11-78-1	40	11-780	lakow’oj	l a k o w ʔ o x	0.0	False	0.531914893617
+40-11-79-1	40	11-790	yikalhi lakow’oj	y i k a lˠ i # l a k o w ʔ o x	0.0	False	0.188966116421
+40-11-81-1	40	11-810	ichoj	i tʃ o x	0.0	False	0.15221987315
+40-11-82-1	40	11-820	wende	w e n d e	1.0	False	0.172631578947
+40-11-83-1	40	11-830	itemhatlo’ elh	i t e m̥ a t l o ʔ # e l̥	0.0	False	0.261904761905
+40-11-84-1	40	11-840	tienawu	t i e n a w u	1.0	False	0.326530612245
+40-11-85-1	40	11-850	tiena	t i e n a	1.0	False	0.674698795181
+40-11-86-1	40	11-860	tiena	t i e n a	1.0	False	0.702127659574
+40-11-87-1	40	11-870	laha	l a h a	0.0	False	0.431330472103
+40-11-88-1	40	11-880	t’enhi	t ʔ e n̥ i	0.0	False	0.297297297297
+40-11-89-1	40	11-890	hat’enhihi	h a t ʔ e n̥ i h i	0.0	False	0.426877470356
+40-11-91-1	40	11-910	iwumlhi	i w u m lˠ i	0.0	False	0.128463476071
+40-11-92-1	40	11-920	pesa	p e s a	1.0	False	0.388461538462
+40-12-01-1	40	12-010	lapesey	l a p e s e j	0.0	False	0.0767590618337
+40-12-011-1	40	12-011	iklafwete	i k l a fʷ e t e	0.0	False	0.0245398773006
+40-12-02-1	40	12-020	iwhoye	i w̥ o j e	0.0	False	0.0708502024291
+40-12-03-1	40	12-030	ikcho’	i k tʃ o ʔ	0.0	False	0.0477748691099
+40-12-041-1	40	12-041	tataylo’	t a t a j l o ʔ	0.0	False	0.0551020408163
+40-12-05-1	40	12-050	ikfwi	i k fʷ i	0.0	False	0.0791139240506
+40-12-06-1	40	12-060	ihi alhu	i h i # a lˠ u	0.0	False	0.050796812749
+40-12-08-1	40	12-080	ikpho	i k pʰ o	0.0	False	0.0
+40-12-11-1	40	12-110	law’et	l a w ʔ e t	0.0	False	0.254817987152
+40-12-12-1	40	12-120	itihi	i t i h i	0.0	False	0.0633406318424
+40-12-12-2	40	12-120	ithathu	i tʰ a tʰ u	0.0	False	0.0633406318424
+40-12-12-3	40	12-120	itikfwi	i t i k fʷ i	0.0	False	0.0633406318424
+40-12-12-4	40	12-120	iti’pe’	i t i ʔ p e ʔ	0.0	False	0.0633406318424
+40-12-12-5	40	12-120	itiklafwete	i t i k l a fʷ e t e	0.0	False	0.0633406318424
+40-12-12-6	40	12-120	itikpho	i t i k pʰ o	0.0	False	0.0633406318424
+40-12-13-1	40	12-130	tataypho	t a t a j pʰ o	0.0	True	0.0886075949367
+40-12-14-1	40	12-140	lhipiyen	lˠ i p i j e n	0.0	False	0.01875
+40-12-14-2	40	12-140	imokatsi	i m o k a ts i	0.0	False	0.01875
+40-12-15-1	40	12-150	takasit	t a k a s i t	0.0	True	0.0190920661858
+40-12-16-1	40	12-160	imolhehi	i m o lˠ e h i	0.0	False	0.135593220339
+40-12-17-1	40	12-170	suwula’	s u w u l a ʔ	1.0	False	0.229274611399
+40-12-17-2	40	12-170	imolhilhip	i m o lˠ i lˠ i p	0.0	False	0.229274611399
+40-12-21-1	40	12-210	t’okwe	t ʔ o kʷ e	0.0	False	0.144827586207
+40-12-21-2	40	12-210	yihethu	y i h e tʰ u	0.0	False	0.144827586207
+40-12-212-1	40	12-212	t’okwe	t ʔ o kʷ e	0.0	False	0.099593495935
+40-12-213-1	40	12-213	iskun	i s k u n	0.0	False	0.167346938776
+40-12-22-1	40	12-220	yihethu	y i h e tʰ u	0.0	False	0.173306772908
+40-12-23-1	40	12-230	w’enhat	w ʔ e n̥ a t	0.0	False	0.179767359887
+40-12-23-2	40	12-230	tiyejkanhi	t i j e x k a n̥ i	0.0	False	0.179767359887
+40-12-232-1	40	12-232	hich’esaj	h i tʃ ʔ e s a x	0.0	False	0.185915492958
+40-12-24-1	40	12-240	iwum	i w u m	0.0	False	0.104895104895
+40-12-25-1	40	12-250	hipuhi	h i p u h i	0.0	False	0.178095611285
+40-12-26-1	40	12-260	hipupe’	h i p u p e ʔ	0.0	False	0.0912828947368
+40-12-27-1	40	12-270	iskat	i s k a t	0.0	False	0.0717131474104
+40-12-31-1	40	12-310	atufwpho	a t u fʷ pʰ o	0.0	False	0.124452782989
+40-12-32-1	40	12-320	atufwcho’	a t u fʷ tʃ o ʔ	0.0	False	0.104931192661
+40-12-33-1	40	12-330	ikpho	i k pʰ o	0.0	False	0.255509899141
+40-12-34-1	40	12-340	ikfwi	i k fʷ i	0.0	False	0.0922982885086
+40-12-35-1	40	12-350	lapes	l a p e s	0.0	False	0.0969761759316
+40-12-352-1	40	12-352	latshelo’	l a tsʰ e l o ʔ	0.0	False	0.14693877551
+40-12-353-1	40	12-353	lhipey	lˠ i p e j	0.0	False	0.128514056225
+40-12-36-1	40	12-360	lhip	lˠ i p	0.0	False	0.139556377079
+40-12-37-1	40	12-370	tochuwej	t o tʃ u w e x	0.0	False	0.154411764706
+40-12-41-1	40	12-410	tofwumkat	t o fʷ u m k a t	0.0	False	0.0362903225806
+40-12-42-1	40	12-420	tots’amkat	t o ts ʔ a m k a t	0.0	False	0.15
+40-12-43-1	40	12-430	nitufwayey	n i t u fʷ a j e j	0.0	False	0.117283950617
+40-12-44-1	40	12-440	atufwey	a t u fʷ e j	0.0	True	0.0559701492537
+40-12-45-1	40	12-450	tewuk choslhele	t e w u k # tʃ o s lˠ e l e	0.0	False	0.233695652174
+40-12-46-1	40	12-460	ikphomey	i k pʰ o m e j	0.0	False	0.244444444444
+40-12-47-1	40	12-470	tolhu tayhi	t o lˠ u # t a j h i	0.0	False	0.204819277108
+40-12-48-1	40	12-480	tapinhi	t a p i n̥ i	0.0	False	0.255952380952
+40-12-53-1	40	12-530	chiyhel	tʃ i j h e l	0.0	False	0.0390070921986
+40-12-54-1	40	12-540	meli	m e l i	1.0	False	0.196202531646
+40-12-55-1	40	12-550	wefw	w e fʷ	0.0	True	0.110869565217
+40-12-56-1	40	12-560	niwefwa	n i w e fʷ a	0.0	True	0.0910470409712
+40-12-56-2	40	12-560	lhomsaj	lˠ o m s a x	0.0	True	0.0910470409712
+40-12-57-1	40	12-570	pitaj	p i t a x	0.0	True	0.0439783491204
+40-12-58-1	40	12-580	pitaj	p i t a x	0.0	False	0.0756073376301
+40-12-59-1	40	12-590	niptaja	n i p t a x a	0.0	False	0.0989583333333
+40-12-61-1	40	12-610	chitsajhu	tʃ i ts a xʰ u	0.0	True	0.45
+40-12-61-2	40	12-610	chitsajpho	tʃ i ts a x pʰ o	0.0	True	0.45
+40-12-62-1	40	12-620	ilupenche	i l u p e n tʃ e	0.0	False	0.09375
+40-12-62-2	40	12-620	niktsajahu	n i k ts a x a h u	0.0	False	0.09375
+40-12-63-1	40	12-630	tach’upway	t a tʃ ʔ u pʷ a j	0.0	True	0.049504950495
+40-12-65-1	40	12-650	ilupen	i l u p e n	0.0	False	0.126315789474
+40-12-67-1	40	12-670	pitufw	p i t u fʷ	0.0	False	0.148331273177
+40-12-68-1	40	12-680	niwefwa toj pitufw	n i w e fʷ a # t o x # p i t u fʷ	0.0	False	0.0967741935484
+40-12-71-1	40	12-710	lhaw’awelhche	lˠ a w ʔ a w e lˠ tʃ e	0.0	False	0.290322580645
+40-12-71-2	40	12-710	hip’akche	h i p ʔ a k tʃ e	0.0	False	0.290322580645
+40-12-73-1	40	12-730	tatshepiche	t a tsʰ e p i tʃ e	0.0	False	0.131632653061
+40-12-74-1	40	12-740	tats’efwihu	t a ts ʔ e fʷ i h u	0.0	False	0.100684931507
+40-12-75-1	40	12-750	tokek	t o k e k	0.0	False	0.219827586207
+40-12-76-1	40	12-760	latshelho’	l a tsʰ e lˠ o ʔ	0.0	False	0.196790540541
+40-12-77-1	40	12-770	klus	k l u s	1.0	False	0.5
+40-12-81-1	40	12-810	lhip’unlhi	lˠ i p ʔ u n lˠ i	0.0	True	0.181985294118
+40-12-82-1	40	12-820	lhip’unlhi	lˠ i p ʔ u n lˠ i	0.0	False	0.252742946708
+40-12-83-1	40	12-830	lhip’unlhi	lˠ i p ʔ u n lˠ i	0.0	False	0.570189274448
+40-12-83-2	40	12-830	pelutaj	p e l u t a x	0.0	False	0.570189274448
+40-12-85-1	40	12-850	lachuwej	l a tʃ u w e x	0.0	False	0.102459016393
+40-12-92-1	40	12-920	nichotche	n i tʃ o t tʃ e	0.0	False	0.174363057325
+40-12-93-1	40	12-930	itey	i t e j	0.0	False	0.266540642722
+40-13-1	40	130	selu	s e l u	0.0	False	0.724409448819
+40-13-01-1	40	13-010	unu	u n u	1.0	False	0.130208333333
+40-13-02-1	40	13-020	lus	l u s	1.0	False	0.230988593156
+40-13-03-1	40	13-030	tales	t a l e s	1.0	False	0.219101123596
+40-13-04-1	40	13-040	kwatlu	kʷ a t l u	1.0	False	0.211956521739
+40-13-05-1	40	13-050	sinku	s i n k u	1.0	False	0.228260869565
+40-13-06-1	40	13-060	seis	s e i s	1.0	False	0.255813953488
+40-13-07-1	40	13-070	siete	s i e t e	1.0	False	0.289772727273
+40-13-08-1	40	13-080	ocho	o tʃ o	1.0	False	0.255813953488
+40-13-09-1	40	13-090	nwewe	nʷ e w e	1.0	False	0.289772727273
+40-13-1-1	40	13-100	lyes	l j e s	1.0	True	0.275862068966
+40-13-101-1	40	13-101	onsi	o n s i	1.0	False	0.231707317073
+40-13-102-1	40	13-102	lusi	l u s i	1.0	False	0.234567901235
+40-13-103-1	40	13-103	kinsi	k i n s i	1.0	False	0.176829268293
+40-13-104-1	40	13-104	wenti	w e n t i	1.0	False	0.225609756098
+40-13-105-1	40	13-105	sien	s i e n	1.0	False	0.420454545455
+40-13-106-1	40	13-106	mil	m i l	1.0	False	0.581395348837
+40-13-107-1	40	13-107	kunta	k u n t a	1.0	False	0.22972972973
+40-13-14-1	40	13-140	nufwu	n u fʷ u	0.0	True	0.186956521739
+40-13-15-1	40	13-150	nitokw	n i t o kʷ	0.0	True	0.144230769231
+40-13-17-1	40	13-170	lhimphaj	lˠ i m pʰ a x	0.0	False	0.0880626223092
+40-13-17-2	40	13-170	niwefwa	n i w e fʷ a	0.0	False	0.0880626223092
+40-13-18-1	40	13-180	wefwnaya	w e fʷ n a j a	0.0	False	0.209558823529
+40-13-181-1	40	13-181	mayek	m a j e k	0.0	False	0.0989010989011
+40-13-19-1	40	13-190	wefwpe’	w e fʷ p e ʔ	0.0	False	0.289383561644
+40-13-21-1	40	13-210	tapuyej	t a p u j e x	0.0	True	0.106382978723
+40-13-22-1	40	13-220	lhajlheleya	lˠ a x lˠ e l e j a	0.0	False	0.135869565217
+40-13-23-1	40	13-230	lhip	lˠ i p	0.0	False	0.243639921722
+40-13-24-1	40	13-240	lach’u	l a tʃ ʔ u	0.0	False	0.157972440945
+40-13-24-2	40	13-240	lhip	lˠ i p	0.0	False	0.157972440945
+40-13-33-1	40	13-330	ts’ilak	ts ʔ i l a k	0.0	False	0.171568627451
+40-13-34-1	40	13-340	tachen	t a tʃ e n	0.0	False	0.123287671233
+40-13-35-1	40	13-350	imolhhen	i m o l̥ h e n	0.0	False	0.114395886889
+40-13-37-1	40	13-370	ihi lus	i h i # l u s	1.0	False	0.355731225296
+40-14-11-1	40	14-110	lawhoy	l a w̥ o j	0.0	False	0.539467341528
+40-14-12-1	40	14-120	nekchom	n e k tʃ o m	0.0	False	0.452054794521
+40-14-12-2	40	14-120	anio	a n i o	1.0	False	0.452054794521
+40-14-13-1	40	14-130	nech’ayik	n e tʃ ʔ a j i k	0.0	True	0.0804597701149
+40-14-14-1	40	14-140	mamse	m a m s e	0.0	False	0.162790697674
+40-14-14-2	40	14-140	nipajache	n i p a x a tʃ e	0.0	False	0.162790697674
+40-14-15-1	40	14-150	thalokw	tʰ a l o kʷ	0.0	True	0.103915662651
+40-14-15-2	40	14-150	lawemek	l a w e m e k	0.0	True	0.103915662651
+40-14-16-1	40	14-160	inathaj	i n a tʰ a x	0.0	False	0.175
+40-14-17-1	40	14-170	hunaj	h u n a x	0.0	False	0.130896226415
+40-14-18-1	40	14-180	athana	a tʰ a n a	0.0	False	0.103159851301
+40-14-19-1	40	14-190	yukfwajkwewet	y u k fʷ a x kʷ e w e t	0.0	False	0.23359375
+40-14-21-1	40	14-210	ilofwel	i l o fʷ e l	0.0	False	0.10736677116
+40-14-22-1	40	14-220	yiwainlhaj	y i w a i n lˠ a x	0.0	False	0.0804066543438
+40-14-24-1	40	14-240	’utle	ʔ u t l e	0.0	False	0.166304347826
+40-14-25-1	40	14-250	ketlhi	k e t lˠ i	0.0	False	0.134168157424
+40-14-26-1	40	14-260	lapes	l a p e s	0.0	False	0.131934566145
+40-14-27-1	40	14-270	nufw	n u fʷ	0.0	False	0.21518607443
+40-14-28-1	40	14-280	ileyej	i l e j e x	0.0	False	0.141949152542
+40-14-29-1	40	14-290	wak’alh	w a k ʔ a l̥	0.0	False	0.317729083665
+40-14-34-1	40	14-340	hayip	h a j i p	0.0	False	0.153846153846
+40-14-35-1	40	14-350	yip	y i p	0.0	False	0.112561174551
+40-14-41-1	40	14-410	fwala	fʷ a l a	0.0	False	0.13931181486
+40-14-42-1	40	14-420	hunatsi	h u n a ts i	0.0	True	0.0689655172414
+40-14-43-1	40	14-430	fwala’ihlo’	fʷ a l a ʔ i h l o ʔ	0.0	False	0.327272727273
+40-14-44-1	40	14-440	inathaj	i n a tʰ a x	0.0	False	0.144736842105
+40-14-45-1	40	14-450	lusi	l u s i	1.0	False	0.103260869565
+40-14-451-1	40	14-451	hunaj	h u n a x	0.0	False	0.159198113208
+40-14-46-1	40	14-460	hunatsi	h u n a ts i	0.0	False	0.127976190476
+40-14-47-1	40	14-470	fwalana	fʷ a l a n a	0.0	False	0.0477528089888
+40-14-48-1	40	14-480	chefwala	tʃ e fʷ a l a	0.0	False	0.0602409638554
+40-14-481-1	40	14-481	temlok ifwala	t e m l o k # i fʷ a l a	0.0	False	0.0126582278481
+40-14-49-1	40	14-490	fwalanajtsu	fʷ a l a n a x ts u	0.0	True	0.0421686746988
+40-14-491-1	40	14-491	ifwala elhaji	i fʷ a l a # e lˠ a x i	0.0	False	0.0185185185185
+40-14-51-1	40	14-510	ora	o r a	1.0	False	0.757505773672
+40-14-53-1	40	14-530	tokafwala	t o k a fʷ a l a	0.0	False	0.743119266055
+40-14-53-2	40	14-530	tokwe’fwat	t o kʷ e ʔ fʷ a t	0.0	False	0.743119266055
+40-14-61-1	40	14-610	semanu	s e m a n u	1.0	False	0.630555555556
+40-14-62-1	40	14-620	luminku	l u m i n k u	1.0	False	0.490625
+40-14-63-1	40	14-630	lunis	l u n i s	1.0	False	0.536585365854
+40-14-64-1	40	14-640	maltis	m a l t i s	1.0	False	0.525
+40-14-65-1	40	14-650	mielkulis	m i e l k u l i s	1.0	False	0.542682926829
+40-14-66-1	40	14-660	fwewis	fʷ e w i s	1.0	False	0.60625
+40-14-67-1	40	14-670	welnis	w e l n i s	1.0	False	0.573170731707
+40-14-68-1	40	14-680	sawulu	s a w u l u	1.0	False	0.660714285714
+40-14-71-1	40	14-710	wel’a	w e l ʔ a	0.0	False	0.192196531792
+40-14-73-1	40	14-730	nekchom	n e k tʃ o m	0.0	False	0.186170212766
+40-14-74-1	40	14-740	lup	l u p	0.0	False	0.0897435897436
+40-14-75-1	40	14-750	nawup	n a w u p	0.5	False	0.160447761194
+40-14-76-1	40	14-760	yachep	y a tʃ e p	0.0	False	0.128537735849
+40-14-77-1	40	14-770	chelhchep	tʃ e lˠ tʃ e p	0.0	False	0.157142857143
+40-14-78-1	40	14-780	lawhoyis	l a w̥ o j i s	0.0	False	0.380434782609
+40-15-89-1	40	15-890	tasefwilhi	t a s e fʷ i lˠ i	0.0	False	0.0752688172043
+40-15-212-1	40	15-212	tan’isinch’uya	t a n ʔ i s i n tʃ ʔ u j a	0.0	False	0.114606741573
+40-15-22-1	40	15-220	tan’isinej	t a n ʔ i s i n e x	0.0	False	0.100421718503
+40-15-25-1	40	15-250	lan’ij akojche	l a n ʔ i x # a k o x tʃ e	0.0	False	0.104395604396
+40-15-26-1	40	15-260	lan’ij oitaj	l a n ʔ i x # o i t a x	0.0	False	0.0179282868526
+40-15-31-1	40	15-310	yelhthu	y e lˠ tʰ u	0.0	False	0.238775510204
+40-15-35-1	40	15-350	nitsot	n i ts o t	0.0	True	0.0863095238095
+40-15-36-1	40	15-360	nusuy	n u s u j	0.0	False	0.0590277777778
+40-15-37-1	40	15-370	tapay	t a p a j	0.0	True	0.0253164556962
+40-15-39-1	40	15-390	nusyhi lhimphaj	n u s j h i # lˠ i m pʰ a x	0.0	False	0.18085106383
+40-15-41-1	40	15-410	ilota	i l o t a	0.0	True	0.0469934310258
+40-15-41-2	40	15-410	ilotey	i l o t e j	0.0	True	0.0469934310258
+40-15-42-1	40	15-420	ilotche	i l o t tʃ e	0.0	False	0.0333509793542
+40-15-44-1	40	15-440	lapak	l a p a k	0.0	False	0.185069984448
+40-15-45-1	40	15-450	lapak t’enche	l a p a k # t ʔ e n tʃ e	0.0	False	0.0473684210526
+40-15-46-1	40	15-460	neweche makpak	n e w e tʃ e # m a k p a k	0.0	False	0.163244353183
+40-15-51-1	40	15-510	hiw’en	h i w ʔ e n	0.0	True	0.0823293172691
+40-15-52-1	40	15-520	iyahin	i j a h i n	0.0	False	0.0949152542373
+40-15-55-1	40	15-550	ipoyna	i p o j n a	0.0	False	0.0612244897959
+40-15-56-1	40	15-560	isi	i s i	0.0	False	0.101821192053
+40-15-57-1	40	15-570	isi	i s i	0.0	False	0.0474433315762
+40-15-62-1	40	15-620	kalelhoj	k a l e lˠ o x	0.0	False	0.130988023952
+40-15-63-1	40	15-630	hunatsihu	h u n a ts i h u	0.0	False	0.101809954751
+40-15-64-1	40	15-640	ipelaj	i p e l a x	0.0	True	0.158653846154
+40-15-65-1	40	15-650	chalaj	tʃ a l a x	0.0	True	0.0487804878049
+40-15-66-1	40	15-660	ichot	i tʃ o t	0.0	True	0.0735294117647
+40-15-67-1	40	15-670	asul	a s u l	1.0	False	0.239889705882
+40-15-67-2	40	15-670	w’atshan	w ʔ a tsʰ a n	0.0	False	0.239889705882
+40-15-68-1	40	15-680	w’atshan	w ʔ a tsʰ a n	0.0	True	0.167682926829
+40-15-69-1	40	15-690	ka’te	k a ʔ t e	0.0	True	0.154069767442
+40-15-71-1	40	15-710	tachasa	t a tʃ a s a	0.0	False	0.103406326034
+40-15-712-1	40	15-712	hits’ifwin	h i ts ʔ i fʷ i n	0.0	False	0.130681818182
+40-15-72-1	40	15-720	tachasch’uya	t a tʃ a s tʃ ʔ u j a	0.0	False	0.121141975309
+40-15-74-1	40	15-740	t’en	t ʔ e n	0.0	True	0.0822942643392
+40-15-75-1	40	15-750	tak’efwi	t a k ʔ e fʷ i	0.0	False	0.0848585690516
+40-15-76-1	40	15-760	yelaj	y e l a x	0.0	False	0.149466192171
+40-15-77-1	40	15-770	talich’i	t a l i tʃ ʔ i	0.0	False	0.174295774648
+40-15-78-1	40	15-780	y’ey	y ʔ e j	0.0	False	0.099609375
+40-15-81-1	40	15-810	nichuyhat	n i tʃ u j h a t	0.0	True	0.0894039735099
+40-15-82-1	40	15-820	ninchuyhata	n i n tʃ u j h a t a	0.0	False	0.0775862068966
+40-15-83-1	40	15-830	tasey	t a s e j	0.0	False	0.0975
+40-15-84-1	40	15-840	tamchoy	t a m tʃ o j	0.0	True	0.0842696629213
+40-15-85-1	40	15-850	nichay’u	n i tʃ a j ʔ u	0.0	False	0.0858938547486
+40-15-851-1	40	15-851	nichay’ukwe	n i tʃ a j ʔ u kʷ e	0.0	False	0.0901287553648
+40-15-851-2	40	15-851	nichay’uhi	n i tʃ a j ʔ u h i	0.0	False	0.0901287553648
+40-15-86-1	40	15-860	nitechojche	n i t e tʃ o x tʃ e	0.0	True	0.0994897959184
+40-15-86-2	40	15-860	nitechojhi	n i t e tʃ o xʰ i	0.0	True	0.0994897959184
+40-15-86-3	40	15-860	nitechojlhi	n i t e tʃ o x lˠ i	0.0	True	0.0994897959184
+40-15-87-1	40	15-870	akojpho	a k o x pʰ o	0.0	False	0.13876146789
+40-15-88-1	40	15-880	kuk’apho	k u k ʔ a pʰ o	0.0	False	0.133757961783
+40-16-11-1	40	16-110	lahesek	l a h e s e k	0.0	False	0.399671052632
+40-16-15-1	40	16-150	iselitej	i s e l i t e x	0.0	False	0.230392156863
+40-16-23-1	40	16-230	akojlhi	a k o x lˠ i	0.0	False	0.181415929204
+40-16-25-1	40	16-250	t’ischey	t ʔ i s tʃ e j	0.0	True	0.0581395348837
+40-16-251-1	40	16-251	t’ischeya	t ʔ i s tʃ e j a	0.0	False	0.1375
+40-16-26-1	40	16-260	yikuy	y i k u j	0.0	False	0.0426829268293
+40-16-27-1	40	16-270	yihemin	y i h e m i n	0.0	False	0.153241650295
+40-16-29-1	40	16-290	hits’e lach’alu	h i ts ʔ e # l a tʃ ʔ a l u	0.0	False	0.196132596685
+40-16-29-2	40	16-290	hits’elhi elh	h i ts ʔ e lˠ i # e l̥	0.0	False	0.196132596685
+40-16-3-1	40	16-300	tatsefwelej	t a ts e fʷ e l e x	0.0	False	0.18045112782
+40-16-31-1	40	16-310	oytaj	o j t a x	0.0	False	0.12380952381
+40-16-32-1	40	16-320	nitichunlhi	n i t i tʃ u n lˠ i	0.0	False	0.337370242215
+40-16-33-1	40	16-330	nitichunlhi	n i t i tʃ u n lˠ i	0.0	False	0.145328719723
+40-16-34-1	40	16-340	tawokoyej	t a w o k o j e x	0.0	False	0.269033674963
+40-16-35-1	40	16-350	alitsajhu	a l i ts a xʰ u	0.0	False	0.3046875
+40-16-37-1	40	16-370	tafwlhi	t a fʷ lˠ i	0.0	True	0.12915851272
+40-16-38-1	40	16-380	tat’eti	t a t ʔ e t i	0.0	False	0.0625
+40-16-39-1	40	16-390	y’ip	y ʔ i p	0.0	False	0.140718562874
+40-16-39-2	40	16-390	t’onlhi	t ʔ o n lˠ i	0.0	False	0.140718562874
+40-16-41-1	40	16-410	ilonlhi	i l o n lˠ i	0.0	False	0.109826589595
+40-16-42-1	40	16-420	tawokwoylhi	t a w o kʷ o j lˠ i	0.0	False	0.216165413534
+40-16-44-1	40	16-440	nicheyta’pe’	n i tʃ e j t a ʔ p e ʔ	0.0	False	0.286956521739
+40-16-45-1	40	16-450	n’ofwel	n ʔ o fʷ e l	0.0	False	0.116666666667
+40-16-48-1	40	16-480	lhichojlhi	lˠ i tʃ o x lˠ i	0.0	False	0.325301204819
+40-16-51-1	40	16-510	atamkatej	a t a m k a t e x	0.0	False	0.2421875
+40-16-52-1	40	16-520	t’enche	t ʔ e n tʃ e	0.0	False	0.284638554217
+40-16-53-1	40	16-530	nuway	n u w a j	0.0	False	0.120879120879
+40-16-54-1	40	16-540	tahumatnhan	t a h u m a t n̥ a n	0.0	False	0.358851674641
+40-16-62-1	40	16-620	t’eynlo	t ʔ e j n l o	0.0	False	0.123794212219
+40-16-622-1	40	16-622	iyaynhen	i j a j n̥ e n	0.0	False	0.143369175627
+40-16-63-1	40	16-630	inihich’uya	i n i h i tʃ ʔ u j a	0.0	False	0.24449339207
+40-16-65-1	40	16-650	omyekalelhoj	o m j e k a l e lˠ o x	0.0	False	0.212658227848
+40-16-66-1	40	16-660	matche	m a t tʃ e	0.0	False	0.228571428571
+40-16-67-1	40	16-670	ifweyenlhi	i fʷ e j e n lˠ i	0.0	False	0.0943396226415
+40-16-69-1	40	16-690	hip’alhtsen	h i p ʔ a lˠ ts e n	0.0	False	0.342592592593
+40-16-71-1	40	16-710	is	i s	0.0	True	0.107212475634
+40-16-72-1	40	16-720	fwitsaj	fʷ i ts a x	0.0	False	0.0874558303887
+40-16-73-1	40	16-730	is’alhuhu	i s ʔ a lˠ u h u	0.0	False	0.265695067265
+40-16-74-1	40	16-740	kamata	k a m a t a	0.5	False	0.160642570281
+40-16-74-2	40	16-740	nisa’alhuhu	n i s a ʔ a lˠ u h u	0.0	False	0.160642570281
+40-16-76-1	40	16-760	tamenej	t a m e n e x	0.0	False	0.423398328691
+40-16-77-1	40	16-770	witayej	w i t a j e x	0.0	False	0.191066997519
+40-16-78-1	40	16-780	tamenej	t a m e n e x	0.0	False	0.324396782842
+40-16-79-1	40	16-790	inokwiyej	i n o kʷ i j e x	0.0	False	0.196428571429
+40-16-81-1	40	16-810	isilataj	i s i l a t a x	0.0	False	0.217028380634
+40-16-82-1	40	16-820	kats’iya	k a ts ʔ i j a	0.0	False	0.249087591241
+40-16-84-1	40	16-840	yihanej	y i h a n e x	0.0	False	0.229440789474
+40-17-11-1	40	17-110	totichunhayaj	t o t i tʃ u n̥ a j a x	0.0	False	0.275061124694
+40-17-13-1	40	17-130	tichunlhi	t i tʃ u n lˠ i	0.0	False	0.225118483412
+40-17-14-1	40	17-140	tichunlhi	t i tʃ u n lˠ i	0.0	False	0.206131078224
+40-17-15-1	40	17-150	yeneyche	y e n e j tʃ e	0.0	False	0.369897959184
+40-17-16-1	40	17-160	yihanej	y i h a n e x	0.0	False	0.288348371911
+40-17-17-1	40	17-170	yihanej	y i h a n e x	0.0	True	0.0666936135812
+40-17-171-1	40	17-171	pajche yihanch’uya	p a x tʃ e # j i h a n tʃ ʔ u j a	0.0	False	0.224696356275
+40-17-172-1	40	17-172	iten	i t e n	0.0	False	0.226744186047
+40-17-18-1	40	17-180	nichotche	n i tʃ o t tʃ e	0.0	False	0.103346456693
+40-17-19-1	40	17-190	totichunhayaj	t o t i tʃ u n̥ a j a x	0.0	False	0.493307839388
+40-17-21-1	40	17-210	yihanhunhate	y i h a n̥ u n̥ a t e	0.0	False	0.220588235294
+40-17-22-1	40	17-220	upa’	u p a ʔ	0.0	False	0.360619469027
+40-17-23-1	40	17-230	amekwe	a m e kʷ e	0.0	False	0.160087719298
+40-17-24-1	40	17-240	yihanej	y i h a n e x	0.0	False	0.259637188209
+40-17-242-1	40	17-242	lhaichefwen	lˠ a i tʃ e fʷ e n	0.0	False	0.42209631728
+40-17-25-1	40	17-250	ichefwen	i tʃ e fʷ e n	0.0	False	0.10251450677
+40-17-26-1	40	17-260	lachefwenek	l a tʃ e fʷ e n e k	0.0	False	0.338888888889
+40-17-27-1	40	17-270	mayistalu	m a j i s t a l u	1.0	False	0.512931034483
+40-17-28-1	40	17-280	tochefwenyajw’et	t o tʃ e fʷ e n j a xʷ ʔ e t	0.0	False	0.690273037543
+40-17-28-2	40	17-280	eskwelu	e s kʷ e l u	1.0	False	0.690273037543
+40-17-31-1	40	17-310	yenhesecha	y e n̥ e s e tʃ a	0.0	False	0.137665198238
+40-17-31-2	40	17-310	tichunche	t i tʃ u n tʃ e	0.0	False	0.137665198238
+40-17-32-1	40	17-320	hip’ethat	h i p ʔ e tʰ a t	0.0	False	0.0708661417323
+40-17-34-1	40	17-340	yikalelhoj	y i k a l e lˠ o x	0.0	False	0.302083333333
+40-17-35-1	40	17-350	naknelhoja	n a k n e lˠ o x a	0.0	False	0.13875
+40-17-36-1	40	17-360	katofwenyaja	k a t o fʷ e n j a x a	0.0	False	0.365625
+40-17-37-1	40	17-370	matche	m a t tʃ e	0.0	False	0.325379609544
+40-17-38-1	40	17-380	yithathu	y i tʰ a tʰ u	0.0	False	0.283783783784
+40-17-42-1	40	17-420	mak toj tamenej	m a k # t o x # t a m e n e x	0.0	False	0.491183879093
+40-17-43-1	40	17-430	nimatache	n i m a t a tʃ e	0.0	False	0.442857142857
+40-17-44-1	40	17-440	titsefwana	t i ts e fʷ a n a	0.0	False	0.388157894737
+40-17-441-1	40	17-441	yachaj	y a tʃ a x	0.0	False	0.362068965517
+40-17-45-1	40	17-450	iwatlo	i w a t l o	0.0	False	0.289090909091
+40-17-46-1	40	17-460	kathaya	k a tʰ a j a	0.0	False	0.367219917012
+40-17-47-1	40	17-470	atha	a tʰ a	0.0	False	0.25
+40-17-48-1	40	17-480	yelhta	y e lˠ t a	0.0	False	0.353535353535
+40-17-51-1	40	17-510	wet	w e t	0.0	False	0.190959409594
+40-17-52-1	40	17-520	latesej	l a t e s e x	0.0	False	0.354368932039
+40-17-53-1	40	17-530	che	tʃ e	0.0	False	0.162295081967
+40-17-54-1	40	17-540	wuyche	w u j tʃ e	0.0	False	0.39175257732
+40-17-55-1	40	17-550	ha	h a	0.0	False	0.136363636364
+40-17-56-1	40	17-560	ka	k a	0.5	False	0.159090909091
+40-17-61-1	40	17-610	e’wuye	e ˀw u j e	0.0	False	0.0204280155642
+40-17-62-1	40	17-620	ehote	e h o t e	0.0	False	0.0608108108108
+40-17-63-1	40	17-630	ehote	e h o t e	0.0	False	0.0541666666667
+40-17-64-1	40	17-640	at’ep	a t ʔ e p	0.0	True	0.0292397660819
+40-17-65-1	40	17-650	e’ihinaji	e ʔ i h i n a x i	0.0	False	0.0473684210526
+40-17-65-2	40	17-650	e’hotehlak	e ʔ h o t e h l a k	0.0	False	0.0473684210526
+40-17-66-1	40	17-660	e’ihi	e ʔ i h i	0.0	False	0.00263157894737
+40-17-67-1	40	17-670	at’e	a t ʔ e	0.0	False	0.0059880239521
+40-17-68-1	40	17-680	at’e	a t ʔ e	0.0	True	0.0323741007194
+40-17-69-1	40	17-690	ats’iyej	a ts ʔ i j e x	0.0	False	0.0051724137931
+40-18-11-1	40	18-110	lapak	l a p a k	0.0	False	0.265171503958
+40-18-12-1	40	18-120	t’ich’uylhi	t ʔ i tʃ ʔ u j lˠ i	0.0	False	0.056420233463
+40-18-13-1	40	18-130	t’on	t ʔ o n	0.0	False	0.104651162791
+40-18-15-1	40	18-150	isamsama	i s a m s a m a	0.0	False	0.157894736842
+40-18-16-1	40	18-160	isamsama	i s a m s a m a	0.0	False	0.0945945945946
+40-18-17-1	40	18-170	iwuposeta	i w u p o s e t a	0.0	False	0.142105263158
+40-18-19-1	40	18-190	t’onlhi	t ʔ o n lˠ i	0.0	False	0.0379746835443
+40-18-21-1	40	18-210	yomlhi	y o m lˠ i	0.0	False	0.0925373134328
+40-18-211-1	40	18-211	ilej toj yomlhi	i l e x # t o x # j o m lˠ i	0.0	False	0.126373626374
+40-18-22-1	40	18-220	yuk	y u k	0.0	True	0.0277264325323
+40-18-22-2	40	18-220	fwelh	fʷ e l̥	0.0	True	0.0277264325323
+40-18-221-1	40	18-221	yomey	y o m e j	0.0	False	0.137855579869
+40-18-23-1	40	18-230	hatats’inhi	h a t a ts ʔ i n̥ i	0.0	False	0.0736607142857
+40-18-24-1	40	18-240	lhomtes	lˠ o m t e s	0.0	False	0.306818181818
+40-18-26-1	40	18-260	lhayhi	lˠ a j h i	0.0	False	0.2542997543
+40-18-28-1	40	18-280	lhey	lˠ e j	0.0	True	0.0852272727273
+40-18-31-1	40	18-310	tay’otna	t a j ʔ o t n a	0.0	False	0.131632653061
+40-18-32-1	40	18-320	nichelhu	n i tʃ e lˠ u	0.0	False	0.216300940439
+40-18-33-1	40	18-330	lhifwelh	lˠ i fʷ e l̥	0.0	False	0.364016736402
+40-18-34-1	40	18-340	lhifwunlo’	lˠ i fʷ u n l o ʔ	0.0	False	0.365517241379
+40-18-35-1	40	18-350	t’alha	t ʔ a lˠ a	0.0	False	0.0913043478261
+40-18-36-1	40	18-360	ifwenhu	i fʷ e n̥ u	0.0	False	0.321428571429
+40-18-37-1	40	18-370	hatachemhinlo’	h a t a tʃ e m̥ i n l o ʔ	0.0	False	0.200729927007
+40-18-38-1	40	18-380	n’oyej	n ʔ o j e x	0.0	False	0.322207084469
+40-18-39-1	40	18-390	iyeta	i j e t a	0.0	False	0.166666666667
+40-18-41-1	40	18-410	t’ona	t ʔ o n a	0.0	False	0.109669811321
+40-18-41-2	40	18-410	t’one	t ʔ o n e	0.0	False	0.109669811321
+40-18-41-3	40	18-410	t’oney	t ʔ o n e j	0.0	False	0.109669811321
+40-18-42-1	40	18-420	iwulheya	i w u lˠ e j a	0.0	False	0.0801526717557
+40-18-43-1	40	18-430	ifwelhlhi	i fʷ e l̥ + l̥ i	0.0	False	0.235181644359
+40-18-44-1	40	18-440	y’oytena	y ʔ o j t e n a	0.0	False	0.122448979592
+40-18-45-1	40	18-450	lhichojlhi	lˠ i tʃ o x lˠ i	0.0	False	0.0769230769231
+40-18-51-1	40	18-510	ilesayen	i l e s a j e n	0.0	False	0.288747346072
+40-18-52-1	40	18-520	tawhiyej	t a w̥ i j e x	0.0	False	0.433544303797
+40-18-56-1	40	18-560	papel	p a p e l	1.0	False	0.719524617997
+40-18-61-1	40	18-610	liwulu	l i w u l u	1.0	False	0.62179685088
+40-18-71-1	40	18-710	tofwulh	t o fʷ u l̥	0.0	False	0.332608695652
+40-18-72-1	40	18-720	topem	t o p e m	0.0	False	0.394444444444
+40-18-73-1	40	18-730	tofwulh	t o fʷ u l̥	0.0	False	0.46837944664
+40-18-74-1	40	18-740	ch’’ilijtaj	tʃ <?> i l i x t a x	0.0	False	0.19696969697
+40-18-74-2	40	18-740	tokato	t o k a t o	0.0	False	0.19696969697
+40-19-11-1	40	19-110	pais	p a i s	1.0	False	0.480088495575
+40-19-15-1	40	19-150	pwewulu	pʷ e w u l u	1.0	False	0.467567567568
+40-19-15-2	40	19-150	hepey	h e p e j	0.0	False	0.467567567568
+40-19-16-1	40	19-160	pwewulu	pʷ e w u l u	1.0	False	0.288718929254
+40-19-16-2	40	19-160	hepey	h e p e j	0.0	False	0.288718929254
+40-19-17-1	40	19-170	hunhat lakapes	h u n̥ a t # l a k a p e s	0.0	False	0.433012583272
+40-19-21-1	40	19-210	wichi	w i tʃ i	0.0	False	0.378486055777
+40-19-23-1	40	19-230	wichi lhayis	w i tʃ i # lˠ a j i s	0.0	False	0.448936170213
+40-19-24-1	40	19-240	niyat	n i j a t	0.0	False	0.344481180061
+40-19-25-1	40	19-250	totset	t o ts e t	0.0	False	0.244565217391
+40-19-31-1	40	19-310	niyatej	n i j a t e x	0.0	False	0.37556561086
+40-19-32-1	40	19-320	niyat	n i j a t	0.0	False	0.529069767442
+40-19-33-1	40	19-330	niyat	n i j a t	0.0	False	0.320306362922
+40-19-41-1	40	19-410	lawekw	l a w e kʷ	0.0	False	0.383413461538
+40-19-42-1	40	19-420	tokwenek	t o kʷ e n e k	0.0	False	0.378571428571
+40-19-43-1	40	19-430	tokawu	t o k a w u	0.0	False	0.355769230769
+40-19-44-1	40	19-440	ninahyayej mayek	n i n a h j a j e x # m a j e k	0.0	False	0.25
+40-19-45-1	40	19-450	icheta	i tʃ e t a	0.0	False	0.421532846715
+40-19-46-1	40	19-460	iwuyey	i w u j e j	0.0	False	0.113100848256
+40-19-47-1	40	19-470	iwainhej	i w a i n̥ e x	0.0	False	0.258928571429
+40-19-51-1	40	19-510	topunfwa	t o p u n fʷ a	0.0	False	0.413385826772
+40-19-51-2	40	19-510	amigo	a m i g o	1.0	False	0.413385826772
+40-19-52-1	40	19-520	totayfwa	t o t a j fʷ a	0.0	False	0.445652173913
+40-19-55-1	40	19-550	tolhejkanhi	t o lˠ e x k a n̥ i	0.0	False	0.222
+40-19-56-1	40	19-560	tokasiyak	t o k a s i j a k	0.0	False	0.26267281106
+40-19-58-1	40	19-580	tach’uta	t a tʃ ʔ u t a	0.0	False	0.218579234973
+40-19-61-1	40	19-610	tokey	t o k e j	0.0	False	0.466292134831
+40-19-62-1	40	19-620	totol’eyaj	t o t o l ʔ e j a x	0.0	False	0.184322033898
+40-19-65-1	40	19-650	hiw’en	h i w ʔ e n	0.0	False	0.0754716981132
+40-19-72-1	40	19-720	towahyenhay	t o w a h j e n̥ a j	0.0	False	0.348360655738
+40-20-11-1	40	20-110	tol’ey	t o l ʔ e j	0.0	False	0.132352941176
+40-20-13-1	40	20-130	katshayaj	k a tsʰ a j a x	0.0	False	0.341205211726
+40-20-14-1	40	20-140	totamsek	t o t a m s e k	0.0	False	0.38961038961
+40-20-15-1	40	20-150	nifwutaj	n i fʷ u t a x	0.0	False	0.562765957447
+40-20-17-1	40	20-170	sip’o	s i p ʔ o	0.0	False	0.577181208054
+40-20-17-2	40	20-170	sulhtawu	s u lˠ t a w u	1.0	False	0.577181208054
+40-20-21-1	40	20-210	letses	l e ts e s	0.0	False	0.33950617284
+40-20-22-1	40	20-220	tot’ajnhat	t o t ʔ a x n̥ a t	0.0	False	0.369020501139
+40-20-22-2	40	20-220	lach’e	l a tʃ ʔ e	0.0	False	0.369020501139
+40-20-23-1	40	20-230	tofwumti	t o fʷ u m t i	0.0	False	0.314102564103
+40-20-23-2	40	20-230	tokawuma	t o k a w u m a	1.0	False	0.314102564103
+40-20-24-1	40	20-240	toch’ohe’	t o tʃ ʔ o h e ʔ	0.0	False	0.157534246575
+40-20-25-1	40	20-250	lutek	l u t e k	0.0	False	0.191358024691
+40-20-26-1	40	20-260	tohen	t o h e n	0.0	False	0.253048780488
+40-20-27-1	40	20-270	lakatnhat	l a k a t n̥ a t	0.0	False	0.445945945946
+40-20-28-1	40	20-280	alhetaj	a lˠ e t a x	0.0	False	0.590909090909
+40-20-31-1	40	20-310	lakatshayajput	l a k a tsʰ a j a x p u t	0.0	False	0.37
+40-20-33-1	40	20-330	lhetekhi	lˠ e t e kʰ i	0.0	False	0.363636363636
+40-20-41-1	40	20-410	yikalhi	y i k a lˠ i	0.0	False	0.326923076923
+40-20-42-1	40	20-420	tatoy	t a t o j	0.0	False	0.223880597015
+40-20-43-1	40	20-430	ineya	i n e j a	0.0	False	0.326388888889
+40-20-45-1	40	20-450	yihonlhi	y i h o n lˠ i	0.0	False	0.126811594203
+40-20-47-1	40	20-470	tonaytsek	t o n a j ts e k	0.0	False	0.392857142857
+40-20-471-1	40	20-471	walia	w a l i a	1.0	False	0.432291666667
+40-20-51-1	40	20-510	w’ahatkut	w ʔ a h a t k u t	0.0	False	0.178571428571
+40-20-52-1	40	20-520	timek	t i m e k	0.0	False	0.184931506849
+40-20-53-1	40	20-530	timekt’ak	t i m e k t ʔ a k	0.0	False	0.252155172414
+40-20-54-1	40	20-540	hutanaj	h u t a n a x	0.0	False	0.263157894737
+40-20-56-1	40	20-560	tokonek	t o k o n e k	0.0	False	0.153488372093
+40-20-61-1	40	20-610	chel	tʃ e l	0.0	False	0.0952088452088
+40-20-62-1	40	20-620	tiyoj	t i j o x	0.0	False	0.0927750410509
+40-20-63-1	40	20-630	yomet	y o m e t	0.0	False	0.158407798538
+40-20-64-1	40	20-640	timek	t i m e k	0.0	False	0.235494880546
+40-20-65-1	40	20-650	tsuklhi	ts u k lˠ i	0.0	False	0.0574712643678
+40-21-11-1	40	21-110	ley	l e j	1.0	False	0.630136986301
+40-21-15-1	40	21-150	tribunales	t r i b u n a l e s	1.0	False	0.547210300429
+40-21-18-1	40	21-180	jwes	xʷ e s	1.0	False	0.544871794872
+40-21-23-1	40	21-230	testiwu	t e s t i w u	1.0	False	0.576388888889
+40-21-31-1	40	21-310	titsefwanaj	t i ts e fʷ a n a x	0.0	False	0.359550561798
+40-21-34-1	40	21-340	tip’alhtsen	t i p ʔ a lˠ ts e n	0.0	False	0.19397993311
+40-21-35-1	40	21-350	lham toj tamenej	lˠ a m # t o x # t a m e n e x	0.0	False	0.355128205128
+40-21-36-1	40	21-360	lhajlatesa	lˠ a x l a t e s a	0.0	False	0.312138728324
+40-21-39-1	40	21-390	tonaintsekhi	t o n a i n ts e kʰ i	0.0	False	0.510204081633
+40-21-42-1	40	21-420	tolonek	t o l o n e k	0.0	False	0.140425531915
+40-21-46-1	40	21-460	tiwenhu	t i w e n̥ u	0.0	False	0.128424657534
+40-21-51-1	40	21-510	iskat	i s k a t	0.0	False	0.130637636081
+40-21-52-1	40	21-520	malewu	m a l e w u	0.75	False	0.173267326733
+40-22-12-1	40	22-120	lius	l i u s	1.0	False	0.365853658537
+40-22-13-1	40	22-130	tohesew’et	t o h e s e w ʔ e t	0.0	False	0.616438356164
+40-22-14-1	40	22-140	altal	a l t a l	1.0	False	0.686440677966
+40-22-15-1	40	22-150	totw’ayhat	t o t wˀ a j h a t	0.0	False	0.363095238095
+40-22-16-1	40	22-160	iwutenecha	i w u t e n e tʃ a	0.0	False	0.252808988764
+40-22-17-1	40	22-170	iwut’alhyaja	i w u t ʔ a lˠ j a x a	0.0	False	0.379310344828
+40-22-18-1	40	22-180	pastul	p a s t u l	1.0	False	0.621495327103
+40-22-18-2	40	22-180	tohesewu	t o h e s e w u	0.0	False	0.621495327103
+40-22-19-1	40	22-190	t’amajchet	t ʔ a m a x tʃ e t	0.0	False	0.286480686695
+40-22-22-1	40	22-220	iwulhometa	i w u lˠ o m e t a	0.0	False	0.584615384615
+40-22-23-1	40	22-230	takopfwaya	t a k o p fʷ a j a	0.0	False	0.289473684211
+40-22-24-1	40	22-240	ithate lhomet toj ni’isa	i tʰ a t e # lˠ o m e t # t o x # n i ʔ i s a	0.0	False	0.168604651163
+40-22-26-1	40	22-260	lhicheyhat	lˠ i tʃ e j h a t	0.0	False	0.295275590551
+40-22-37-1	40	22-370	toch’’ayaj	t o tʃ <?> a j a x	0.0	False	0.375
+40-22-42-1	40	22-420	iwelanhat mayek	i w e l a n̥ a t # m a j e k	0.0	False	0.336021505376
+40-22-43-1	40	22-430	hayawe	h a j a w e	0.0	False	0.230243161094
+40-22-47-1	40	22-470	tolhahwu	t o lˠ a hʷ u	0.0	False	0.350746268657
+40-23-1-1	40	23-100	laliu	l a l i u	1.0	False	
+40-23-1-2	40	23-100	yomlhintaj	y o m lˠ i n t a x	0.0	False	
+40-23-11-1	40	23-110	telewisiun	t e l e w i s i u n	1.0	False	
+40-23-12-1	40	23-120	telefwu	t e l e fʷ u	1.0	False	
+40-23-135-1	40	23-135	mutu	m u t u	1.0	False	
+40-23-14-1	40	23-140	wej itoj	w e x # i t o x	0.0	False	
+40-23-15-1	40	23-150	kuliktiwu	k u l i k t i w u	1.0	False	
+40-23-15-2	40	23-150	kuliktiwulhos	k u l i k t i w u lˠ o s	0.0	False	
+40-23-16-1	40	23-160	wiy’otaj	w i j ʔ o t a x	0.0	False	
+40-23-175-1	40	23-175	pila	p i l a	1.0	False	
+40-23-2-1	40	23-200	uspital	u s p i t a l	1.0	False	
+40-23-21-1	40	23-210	enfwelmela	e n fʷ e l m e l a	1.0	False	
+40-23-22-1	40	23-220	pastiya	p a s t i j a	1.0	False	
+40-23-23-1	40	23-230	kanu indisiun	k a n u # i n d i s i u n	1.0	False	
+40-23-5-1	40	23-500	kots’i	k o ts ʔ i	0.0	False	
+40-23-51-1	40	23-510	toleshekhi	t o l e s h e kʰ i	0.0	False	
+40-23-52-1	40	23-520	y’amekwhi	y ʔ a m e kʷ + h i	0.0	False	
+40-23-53-1	40	23-530	kultsun	k u l ts u n	1.0	False	
+40-23-3-1	40	23-300	niyat	n i j a t	0.0	False	
+40-23-31-1	40	23-310	niyat	n i j a t	0.0	False	
+40-23-32-1	40	23-320	niyat	n i j a t	0.0	False	
+40-23-33-1	40	23-330	sulhtawu	s u lˠ t a w u	1.0	False	
+40-23-34-1	40	23-340	karne	k a r n e	1.0	False	
+40-23-37-1	40	23-370	tolonek	t o l o n e k	0.0	False	
+40-23-38-1	40	23-380	wutasiun	w u t a s i u n	1.0	False	
+40-23-41-1	40	23-410	estampiya	e s t a m p i j a	1.0	False	
+40-23-42-1	40	23-420	kalta	k a l t a	1.0	False	
+40-23-44-1	40	23-440	wanku	w a n k u	1.0	False	
+40-23-54-1	40	23-540	sitowu	s i t o w u	0.0	False	
+40-23-55-1	40	23-550	lhele	lˠ e l e	0.0	False	
+40-23-56-1	40	23-560	wuteya	w u t e j a	1.0	False	
+40-23-565-1	40	23-565	kalmelu	k a l m e l u	1.0	False	
+40-23-24-1	40	23-240	tottelhuhis	t o t t e lˠ u h i s	0.0	False	
+40-23-57-1	40	23-570	plastiku	p l a s t i k u	1.0	False	
+40-23-59-1	40	23-590	yukwas	y u kʷ a s	0.0	False	
+40-23-62-1	40	23-620	sine	s i n e	1.0	False	
+40-23-63-1	40	23-630	musika	m u s i k a	1.0	False	
+40-23-64-1	40	23-640	tochus	t o tʃ u s	0.0	False	
+40-23-6-1	40	23-600	diario	d i a r i o	1.0	False	
+40-23-39-1	40	23-390	numelu	n u m e l u	1.0	False	
+40-23-155-1	40	23-155	wapulh	w a p u l̥	0.75	False	
+40-23-18-1	40	23-180	fwulena	fʷ u l e n a	1.0	False	
+40-23-185-1	40	23-185	mutul	m u t u l	1.0	False	
+40-23-19-1	40	23-190	tochemetcha	t o tʃ e m e t tʃ a	0.0	False	
+40-23-13-1	40	23-130	wisikleta	w i s i k l e t a	1.0	False	
+40-23-395-1	40	23-395	kaye	k a j e	1.0	False	
+40-19-445-1	40	19-445	ilanhi	i l a n̥ i	0.0	False	
+40-19-565-1	40	19-565	hiw’enhu lhip	h i w ʔ e n̥ u # lˠ i p	0.0	False	
+40-23-35-1	40	23-350	patente	p a t e n t e	1.0	False	
+40-24-01-1	40	24-010	ihi	i h i	0.0	False	
+40-24-01-2	40	24-010	hope	h o p e	0.0	False	
+40-24-13-1	40	24-130	molhyej	m o lˠ j e x	0.0	False	0.114942528736
+40-24-07-1	40	24-070	tojha	t o xʰ a	0.0	False	
+40-24-09-1	40	24-090	ikana	i k a n a	0.0	False	
+40-24-1-1	40	24-100	iknhi	i k n̥ i	0.0	False	
+40-24-11-1	40	24-110	elh	e l̥	0.0	False	
+40-4-493-1	40	4-493	tose’	t o s e ʔ	0.0	False	
+40-23-9-1	40	23-900	kusilu	k u s i l u	1.0	False	
+40-23-9-2	40	23-900	te	t e	1.0	False	
+40-23-91-1	40	23-910	kafwe	k a fʷ e	1.0	False	
+40-24-12-1	40	24-120	lawhoy elh	l a w̥ o j # e l̥	0.0	False	
+40-3-862-1	40	3-862	mawu	m a w u	0.0	False	
+40-3-863-1	40	3-863	moy’o	m o j ʔ o	0.0	False	
+40-3-865-1	40	3-865	asnaj	a s n a x	0.0	False	
+40-3-871-1	40	3-871	ts’iwase	ts ʔ i w a s e	0.0	False	
+40-3-872-1	40	3-872	ts’iwase	ts ʔ i w a s e	0.0	False	
+40-3-873-1	40	3-873	onholotaj	o n̥ o l o t a x	0.0	False	
+40-8-29-1	40	8-290	lasu	l a s u	1.0	False	
+40-4-465-1	40	4-465	tosot	t o s o t	0.0	False	
+40-22-5-1	40	22-500	tolhiktsek	t o lˠ i k ts e k	0.0	False	
+40-22-51-1	40	22-510	tiwutesa	t i w u t e s a	0.0	False	
+40-3-8112-1	40	3-811	lha’	lˠ a ʔ	0.0	True	0.0493421052632
+40-3-99-1	40	3-990	yel’a	y e l ʔ a	0.0	False	
+40-9-93-1	40	9-930	tente	t e n t e	0.0	False	
+40-9-92-1	40	9-920	niyokw	n i j o kʷ	0.0	False	
+40-7-65-1	40	7-650	tochotw’et	t o tʃ o t wˀ e t	0.0	False	
+40-3-597-1	40	3-597	askan	a s k a n	0.0	False	
+40-3-834-1	40	3-834	hal’owu	h a l ʔ o w u	0.0	False	
+40-3-835-1	40	3-835	fwech’ataj	fʷ e tʃ ʔ a t a x	0.0	False	
+40-3-89-1	40	3-890	selaj	s e l a x	0.0	False	
+40-3-598-1	40	3-598	tuk	t u k	0.5	False	
+40-3-9-1	40	3-900	hay’oj	h a j ʔ o x	0.0	False	
+40-5-983-1	40	5-983	manyuku	m a n j u k u	1.0	False	
+40-7-66-1	40	7-660	tofweyekw	t o fʷ e j e kʷ	0.0	False	
+40-3-913-1	40	3-913	aypas	a j p a s	0.0	False	
+40-9-9-1	40	9-900	tachemhunot	t a tʃ e m̥ u n o t	0.0	False	
+40-9-91-1	40	9-910	tokach’u	t o k a tʃ ʔ u	0.0	False	
+40-10-58-1	40	10-580	yople law’et	y o p l e # l a w ʔ e t	0.0	False	
+40-3-917-1	40	3-917	tulutaj	t u l u t a x	1.0	False	
+40-1-411-1	40	1-411	tayhi	t a j h i	0.0	False	
+40-1-831-1	40	1-831	fwak	fʷ a k	0.0	False	0.225158562368
+40-2-4711-1	40	2-471	tochotilis	t o tʃ o t i l i s	0.0	False	0.187074829932
+40-2-931-1	40	2-931	lham	lˠ a m	0.0	False	0.0580945003873
+40-2-932-1	40	2-932	lham	lˠ a m	0.0	False	0.0531537916371
+40-2-933-1	40	2-933	lham	lˠ a m	0.0	False	0.03367003367
+40-4-741-1	40	4-741	tow’atshancheyaj	t o w ʔ a tsʰ a n tʃ e j a x	0.0	False	0.283018867925
+40-4-771-1	40	4-771	tshowet p’itsek	tsʰ o w e t # p ʔ i ts e k	0.0	False	0.263852242744
+40-4-844-1	40	4-844	wit’oy	w i t ʔ o j	0.0	False	0.338235294118
+40-7-232-1	40	7-232	kandawu	k a n d a w u	1.0	False	0.456928838951
+40-8-121-1	40	8-121	alusw’et	a l u s + wˀ e t	0.0	False	0.161290322581
+40-12-081-1	40	12-081	ipe’	i p e ʔ	0.0	False	0.0313088512241
+40-13-231-1	40	13-231	lhip	lˠ i p	0.0	False	0.162857142857
+40-13-331-1	40	13-331	ts’ilaklhi	ts ʔ i l a k lˠ i	0.0	False	0.102409638554
+40-14-411-1	40	14-411	fwala	fʷ a l a	0.0	False	0.190265486726
+40-22-131-1	40	22-131	inlesia	i n l e s i a	1.0	False	0.658482142857
+40-24-14-1	40	24-140	maych’’i	m a j tʃ <?> i	0.0	False	0.106382978723
+40-4-7501-1	40	4-750	tolonek	t o l o n e k	0.0	False	0.204545454545
+40-4-8541-1	40	4-854	chasmajlhi	tʃ a s m a x lˠ i	0.0	False	0.0925196850394
+40-9-111-1	40	9-111	yenlhi	y e n lˠ i	0.0	False	0.0799637899819
+40-4-431-1	40	4-431	tots’e	t o ts ʔ e	0.0	False	0.156612529002
+40-24-04-1	40	24-040	lhoy’a	lˠ o j ʔ a	0.0	False	0.09375
